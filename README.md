@@ -2,7 +2,7 @@
 
 ## Notes
 
-This space is created to be a second brain:brain: for the things I am learning, so I can come back here and remind myself about a certain topic if I need to.
+This space is created to be a second brain :brain: for the things I am learning, so I can come back here and remind myself about a certain topic if I need to.
 
 The whole point of this notes is to keep things simple and understandable for me and hopefully for someone else as well.
 
