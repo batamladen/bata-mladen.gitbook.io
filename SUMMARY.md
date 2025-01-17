@@ -71,6 +71,10 @@
     * [Phonetic Alphabet](programming/python/examples-projects/phonetic-alphabet.md)
     * [Miles to KM Converter](programming/python/examples-projects/miles-to-km-converter.md)
     * [Pomodoro Timer](programming/python/examples-projects/pomodoro-timer.md)
+* [Assembly 8086](programming/assembly-8086/README.md)
+  * [Assembly 8086 basics](programming/assembly-8086/assembly-8086-basics/README.md)
+    * [Basic Concepts](programming/assembly-8086/assembly-8086-basics/basic-concepts.md)
+  * [Examples/Projects](programming/assembly-8086/examples-projects.md)
 
 ## 🔐 CRYPTOGRAPHY
 
