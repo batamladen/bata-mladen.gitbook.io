@@ -74,17 +74,17 @@ Types of **computer architectures**—the way computers are structured to perfor
 * **RISC (Reduced Instruction Set Computer)**: RISC processors use a smaller, simpler set of instructions, each designed to execute very quickly. This simplicity helps RISC processors perform tasks faster, as they complete each instruction in just one or a few cycles.
 * **ARM (Advanced RISC Machine)**: ARM is a specific type of RISC architecture known for its power efficiency and is widely used in mobile devices like smartphones and tablets.
 
-!\[\[CISC.png]]
-
-<figure><img src="../../../.gitbook/assets/CISC.png" alt=""><figcaption></figcaption></figure>
-
-!\[\[RISC.png]]
-
-<figure><img src="../../../.gitbook/assets/RISC (1).png" alt=""><figcaption></figcaption></figure>
-
-!\[\[ARM.png]]
 
 
+<figure><img src="../../../.gitbook/assets/CISC.png" alt=""><figcaption><p>CISC</p></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/RISC (1).png" alt=""><figcaption><p>RISC</p></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/ARM (4).png" alt=""><figcaption><p>ARM</p></figcaption></figure>
 
 
 
@@ -100,7 +100,9 @@ Types of **computer architectures**—the way computers are structured to perfor
 
 CPU clock speed is the number of cycles a CPU performs per second. Measured in GHz, and it determines how quickly a CPU can execute instructions.
 
-!\[\[CPU clock.png]]
+
+
+<figure><img src="../../../.gitbook/assets/CPU clock.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
