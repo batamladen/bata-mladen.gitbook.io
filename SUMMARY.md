@@ -74,7 +74,9 @@
 * [Assembly 8086](programming/assembly-8086/README.md)
   * [Assembly 8086 basics](programming/assembly-8086/assembly-8086-basics/README.md)
     * [Basic Concepts](programming/assembly-8086/assembly-8086-basics/basic-concepts.md)
-  * [Examples/Projects](programming/assembly-8086/examples-projects.md)
+  * [Examples/Projects](programming/assembly-8086/examples-projects/README.md)
+    * [Addition of two 8-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-8-bit-numbers.md)
+    * [Addition of two 16-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-16-bit-numbers.md)
 
 ## 🔐 CRYPTOGRAPHY
 
