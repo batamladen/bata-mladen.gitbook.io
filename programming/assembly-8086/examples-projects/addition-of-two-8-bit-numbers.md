@@ -29,10 +29,6 @@ code ends
 end start 
 ```
 {% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
 {% endtabs %}
 
 ## Understand the code
