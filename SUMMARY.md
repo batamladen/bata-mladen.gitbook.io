@@ -80,6 +80,7 @@
     * [Addition of two 8-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-8-bit-numbers.md)
     * [Addition of two 16-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-16-bit-numbers.md)
     * [Display "Hello"](programming/assembly-8086/examples-projects/display-hello.md)
+    * [Flags Practice](programming/assembly-8086/examples-projects/flags-practice.md)
 
 ## 🔐 CRYPTOGRAPHY
 

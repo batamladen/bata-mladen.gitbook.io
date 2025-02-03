@@ -19,7 +19,7 @@ Every time a new Tor relay hits, one encryption layer breaks, and the remaining 
 
 The following picture will be used to visually explain how the tor works.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see, Emilia's computer only knows the exit relay, and it puts it as the destination. the releys in between are randomly selected.\
 The guard node receives the data, removes the outermost layer of encryption using Kn1 and sends the decrypted message to the relay node. The middle node removes the next layer using Kn2 and relays it to the exit node. Finally, the exit node decrypts the message with Kn3 and sends the original data to the web server (in this case peel-the-orange.com).

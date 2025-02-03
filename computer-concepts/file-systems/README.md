@@ -8,7 +8,7 @@ Different file systems have varying characteristics and are often specific to ce
 
 ## **FAT (File Allocation Table), FAT16, FAT32**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 FAT is one of the oldest and simplest file systems. It was initially developed for MS-DOS and is still used in many removable storage devices. The two major versions of this system are FAT16 and FAT32. FAT uses a file allocation table to keep track of file locations on the disk. However, it lacks some advanced features like file permissions and journaling, making it less suitable for modern operating systems. FAT 16 was introduces in 1987 with DOS 3.31 while FAT32 was introduced with Windows 95 OSR2(MS-DOS 7.1) in 1996.
 
@@ -29,7 +29,7 @@ FAT is one of the oldest and simplest file systems. It was initially developed f
 
 ## **exFAT (Extended File Allocation Table)**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 exFAT is a file system introduced by Microsoft as an improved version of FAT32. It addresses some of the limitations of FAT32, allowing for larger file sizes and better performance. exFAT is commonly used for removable storage devices, such as [external SSDs](https://www.kingston.com/en/ssd/external), hard drives and SD cards as it provides compatibility across multiple operating systems. It was first introduced in 2006
 
@@ -48,7 +48,7 @@ exFAT is a file system introduced by Microsoft as an improved version of FAT32. 
 
 ## **NTFS (New Technology File System)**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 NTFS is the default file system used by Windows NT-based operating systems, starting in 1993 with Windows NT 3.1, all the way up to and including Windows 11. It offers advanced features like file permissions, encryption, compression, and journaling. NTFS supports large file and partition sizes, making it suitable for modern storage devices. However, it has limited compatibility with non-Windows operating systems.
 
@@ -66,7 +66,7 @@ NTFS is the default file system used by Windows NT-based operating systems, star
 
 ## **APFS (Apple File System)**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 APFS is a file system developed by Apple for macOS, iOS, and other Apple devices. It is designed to optimise performance and compatibility with Apple's hardware and software. APFS includes features like cloning, file-level encryption and improved performance on solid-state drives. It was introduced with macOS 10.13 in 2017.
 
