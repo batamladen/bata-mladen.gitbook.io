@@ -75,6 +75,7 @@
   * [Assembly 8086 basics](programming/assembly-8086/assembly-8086-basics/README.md)
     * [Basic Concepts](programming/assembly-8086/assembly-8086-basics/basic-concepts.md)
     * [Intel 8086 Architecture](programming/assembly-8086/assembly-8086-basics/intel-8086-architecture.md)
+    * [Page](programming/assembly-8086/assembly-8086-basics/page.md)
   * [Examples/Projects](programming/assembly-8086/examples-projects/README.md)
     * [Lesson 03 Tasks](programming/assembly-8086/examples-projects/lesson-03-tasks.md)
     * [Addition of two 8-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-8-bit-numbers.md)
