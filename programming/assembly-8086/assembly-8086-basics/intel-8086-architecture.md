@@ -151,7 +151,7 @@ It contains:
 
 ▪ A special purpose 16-bit register. ▪ There are 9 valid flag bits. ▪The flag bits are changed to 0 or 1 depending on the value of result after arithmetic or logical operations. ▪ The flag bits can be divided into two sections – control flags and status flags
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241115152703.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Pasted image 20241115152703 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Flag Register.png" alt=""><figcaption></figcaption></figure>
 
