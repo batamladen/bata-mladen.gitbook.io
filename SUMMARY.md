@@ -78,12 +78,16 @@
     * [Assembly Language Basics](programming/assembly-8086/assembly-8086-basics/assembly-language-basics.md)
     * [Memory and Register Organization (part 1)](programming/assembly-8086/assembly-8086-basics/memory-and-register-organization-part-1.md)
     * [Memory and Register Organization (part 2)](programming/assembly-8086/assembly-8086-basics/memory-and-register-organization-part-2.md)
+    * [Data Transfer & Algoritmic Operations](programming/assembly-8086/assembly-8086-basics/data-transfer-and-algoritmic-operations.md)
+    * [Control Structures](programming/assembly-8086/assembly-8086-basics/control-structures.md)
   * [Examples/Projects](programming/assembly-8086/examples-projects/README.md)
     * [Assembly Basics Tasks](programming/assembly-8086/examples-projects/assembly-basics-tasks.md)
     * [Addition of two 8-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-8-bit-numbers.md)
     * [Addition of two 16-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-16-bit-numbers.md)
     * [Display "Hello"](programming/assembly-8086/examples-projects/display-hello.md)
     * [Flags Practice](programming/assembly-8086/examples-projects/flags-practice.md)
+    * [Reverse a String](programming/assembly-8086/examples-projects/reverse-a-string.md)
+    * [Simple Arithmetic](programming/assembly-8086/examples-projects/simple-arithmetic.md)
 
 ## 🔐 CRYPTOGRAPHY
 
