@@ -150,6 +150,9 @@
     * [Cloud Resources](certificates/cpts/footprinting/cloud-resources.md)
     * [Staff](certificates/cpts/footprinting/staff.md)
     * [FTP](certificates/cpts/footprinting/ftp.md)
+* [CDSA](certificates/cdsa/README.md)
+  * [Incident Handling](certificates/cdsa/incident-handling.md)
+  * [Cyber Kill Chain](certificates/cdsa/cyber-kill-chain.md)
 
 ## 🤖 MACHINE LEARNING
 
