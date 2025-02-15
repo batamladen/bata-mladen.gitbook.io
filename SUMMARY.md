@@ -153,6 +153,11 @@
 * [CDSA](certificates/cdsa/README.md)
   * [Incident Handling](certificates/cdsa/incident-handling.md)
   * [Cyber Kill Chain](certificates/cdsa/cyber-kill-chain.md)
+  * [Incident Handling Process](certificates/cdsa/incident-handling-process.md)
+  * [Preparation Stage (Part 1)](certificates/cdsa/preparation-stage-part-1.md)
+  * [Preparation Stage (Part 2)](certificates/cdsa/preparation-stage-part-2.md)
+  * [Detection & Analysis Stage (Part 1)](certificates/cdsa/detection-and-analysis-stage-part-1.md)
+  * [Detection & Analysis Stage (Part 2)](certificates/cdsa/detection-and-analysis-stage-part-2.md)
 
 ## 🤖 MACHINE LEARNING
 
