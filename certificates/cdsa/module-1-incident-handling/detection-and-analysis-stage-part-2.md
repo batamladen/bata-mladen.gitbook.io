@@ -18,7 +18,7 @@ The investigation begins with limited initial information about the incident. Fr
 
 This cycle continues until a comprehensive understanding of the incident is achieved.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
