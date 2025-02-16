@@ -16,12 +16,23 @@ I have taken this notes based on my own understandings and there might be someth
 
 #### Check out my other projects and content about things I am passionate about below😄
 
-[<img src="https://www.notion.so/icons/coffee_orange.svg" alt="https://www.notion.so/icons/coffee_orange.svg" data-size="line">**Buy me a coffee**](https://www.buymeacoffee.com/bata_mladen)
+<img src="https://www.notion.so/icons/coffee_orange.svg" alt="https://www.notion.so/icons/coffee_orange.svg" data-size="line">[**Buy me a coffee**](https://buymeacoffee.com/python_hub)
 
-[<img src="https://www.notion.so/icons/news_orange.svg" alt="https://www.notion.so/icons/news_orange.svg" data-size="line">**Python course (On Serbian Language)**](https://www.buymeacoffee.com/bata_mladen/e/231937)
+<img src=".gitbook/assets/graduate.png" alt="" data-size="line"> [**Python course (On Serbian Language)**](https://buymeacoffee.com/python_hub/e/231937)
+
+<img src=".gitbook/assets/graduate.png" alt="" data-size="line"> [**Java course (On Serbian Language)**](https://buymeacoffee.com/python_hub/e/242099)
+
+<img src=".gitbook/assets/instagram (1).png" alt="" data-size="line"> [**PythonHub Instagram Page**](https://www.instagram.com/_python_hub/)
+
+
 
 ***
 
-#### **Social**
+## **Social**
 
-_#needs to be added_
+[Linkedin](https://www.linkedin.com/in/mladen-nikolov-1b4720200/) <img src=".gitbook/assets/image (3).png" alt="" data-size="line">
+
+[GitHub](https://github.com/batamladen) <img src=".gitbook/assets/image (7).png" alt="" data-size="line">
+
+[Instagram](https://www.instagram.com/bata_mladen/) <img src=".gitbook/assets/image (4).png" alt="" data-size="line">
+

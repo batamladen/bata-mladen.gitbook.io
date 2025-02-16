@@ -40,7 +40,7 @@ A **computer forensics lab (CFL)** is a designated location for conducting a com
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@ Points to remember when documenting the crime scene:
 
 ### Search and Seizure
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The investigators should have in-depth knowledge of all the devices that could have played a part in transmitting the attack data to the victim device. They should be able to search for all the involved devices and seize them in a lawful manner for the acquisition and analysis of the evidential data.
 

@@ -103,7 +103,7 @@ Wyoming,-134,90
 {% endtab %}
 
 {% tab title="blank_states_img.gif" %}
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endtab %}

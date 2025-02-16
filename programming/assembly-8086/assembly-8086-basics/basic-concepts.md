@@ -44,7 +44,7 @@ A translator is a program used to convert the source code into object code (mach
 * Decimal - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 * Hexidecimal - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Binary Coded Decimal
 
