@@ -119,7 +119,6 @@
 * [Temporary Mails](privacy/temporary-mails.md)
 * [Online Payments](privacy/online-payments.md)
 * [Deleting Files](privacy/deleting-files.md)
-* [The Onion Router](privacy/the-onion-router.md)
 
 ## 🔍 DIGITAL FORENSICS
 
