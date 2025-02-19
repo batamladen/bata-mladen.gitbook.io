@@ -158,6 +158,11 @@
     * [Preparation Stage (Part 2)](certificates/cdsa/module-1-incident-handling/preparation-stage-part-2.md)
     * [Detection & Analysis Stage (Part 1)](certificates/cdsa/module-1-incident-handling/detection-and-analysis-stage-part-1.md)
     * [Detection & Analysis Stage (Part 2)](certificates/cdsa/module-1-incident-handling/detection-and-analysis-stage-part-2.md)
+  * [Module 2 - Security Monitoring & SIEM Fundamentals](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/README.md)
+    * [SIEM definition & Fundamentals](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/siem-definition-and-fundamentals.md)
+    * [Elastic Stack](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/elastic-stack.md)
+    * [SOC](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/soc.md)
+    * [MITTRE ATT\&CK](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/mittre-att-and-ck.md)
 
 ## 🤖 MACHINE LEARNING
 
