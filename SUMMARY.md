@@ -209,3 +209,11 @@
   * [x86](computer-concepts/isa/x86.md)
   * [ARM](computer-concepts/isa/arm.md)
   * [Registers](computer-concepts/isa/registers.md)
+
+## ⚙️ Reverse Engineering
+
+* [Soon...](reverse-engineering/soon....md)
+
+## 🦠 Malware Analysis
+
+* [Soon..](malware-analysis/soon...md)
