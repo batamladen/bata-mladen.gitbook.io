@@ -163,6 +163,8 @@
     * [Elastic Stack](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/elastic-stack.md)
     * [SOC](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/soc.md)
     * [MITTRE ATT\&CK](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/mittre-att-and-ck.md)
+    * [SIEM visualization (5-8)](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/siem-visualization-5-8.md)
+    * [The Triaging Process](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/the-triaging-process.md)
 
 ## 🤖 MACHINE LEARNING
 
