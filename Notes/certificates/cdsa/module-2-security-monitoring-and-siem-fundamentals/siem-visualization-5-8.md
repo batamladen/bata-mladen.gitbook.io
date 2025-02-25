@@ -13,20 +13,28 @@ A window opens with 4 important notices.
 
 ***
 
-### Filter Codes
-
-#### Event Code
-
-event.code: 4625 - Failed logon attempt on a Windows system. event.code: 4624 - An account was successfully logged on event.code: 4732: A member was added to a security-enabled local group event.code: 4733: A member was removed from a security-enabled local group
-
-event.action.keyword – Specifies the type of action that occurred in the event, such as "logon" or "file modification
-
-group.name - Used to specify a certain group name
-
-winlog.event\_data.SubStatus: 0xC0000072 - the failure is due to a logon with disabled user. winlog.logon.type - Displays the logon type (RemoteInteractive, Wired, etc...) winlog.event\_data.MemberSid.keyword – Represents the Security Identifier (SID) of the user or group involved in the event
-
-***
-
 ### Fields
 
-user.name.keyword - account name host.name.keyword - device name winlog.logon.type.keyword - logon type (remote etc...) related.ip.keyword - the IP of the computer initiating the succsessful RDP logon attempt
+**event.code: 4625** - Failed logon attempt on a Windows system.&#x20;
+
+**event.code: 4624** - An account was successfully logged on event.code: 4732: A member was added to a security-enabled local group
+
+**event.code: 4733 -** A member was removed from a security-enabled local group
+
+**event.action.keyword** – Specifies the type of action that occurred in the event, such as "logon" or "file modification
+
+**group.name** - Used to specify a certain group name
+
+**winlog.event\_data.SubStatus: 0xC0000072** - the failure is due to a logon with disabled user.
+
+**winlog.logon.type** - Displays the logon type (RemoteInteractive, Wired, etc...)
+
+**winlog.event\_data.MemberSid.keyword** – Represents the Security Identifier (SID) of the user or group involved in the event
+
+**user.name.keyword** - account name&#x20;
+
+**host.name.keyword** - device name&#x20;
+
+**winlog.logon.type.keyword** - logon type (remote etc...)&#x20;
+
+**related.ip.keyword** - the IP of the computer initiating the succsessful RDP logon attempt
