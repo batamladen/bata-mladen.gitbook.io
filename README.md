@@ -1,4 +1,4 @@
-Visit the website for a more pleasant experience: [https://bata-mladen.gitbook.io]
+Visit the website for a more pleasant experience: https://bata-mladen.gitbook.io
 
 # Intro
 
