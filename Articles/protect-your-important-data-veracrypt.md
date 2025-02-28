@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/veracrypt.jpg
+coverY: 90.59436913451512
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👁️‍🗨️ Protect Your Important Data (VeraCrypt)
 
 Are you extremely paranoid and even though you encrypted your files, you are still scared that it might get revealed somehow? Than, continue reading.

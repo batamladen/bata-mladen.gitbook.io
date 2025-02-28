@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Tor-headpic.jpg
+coverY: -4
+---
+
 # 🕸️ Tor & Dark Web in a Nutshell
 
 If you don't tear up while cutting onions...
