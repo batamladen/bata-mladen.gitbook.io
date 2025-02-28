@@ -165,6 +165,7 @@
     * [MITTRE ATT\&CK](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/mittre-att-and-ck.md)
     * [SIEM visualization (5-8)](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/siem-visualization-5-8.md)
     * [The Triaging Process](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/the-triaging-process.md)
+  * [Module 3](certificates/cdsa/module-3.md)
 
 ## 🤖 MACHINE LEARNING
 
