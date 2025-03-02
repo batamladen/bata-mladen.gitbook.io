@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/Dll-Hijacking.jpg
-coverY: -69
+coverY: -106.74765380604796
 ---
 
 # 🗃️ DLL hijacking
