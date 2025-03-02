@@ -6,4 +6,4 @@
 * [🗃️ DLL hijacking](dll-hijacking.md)
 * [#Privacy](privacy.md)
 * [#Dark Web](dark-web.md)
-* [#offensive](offensive.md)
+* [#Offensive](offensive.md)
