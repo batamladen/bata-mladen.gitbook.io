@@ -40,7 +40,7 @@ This is how it is explained on the official website:
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This feature is awesome hence it provides **plausible deniability** (even if someone forces you to reveal the password for the outer volume, the existence of the hidden partition remains undetectable because of the random data that is persistent in the free space of any VeraCrypt partition)**.**
 
