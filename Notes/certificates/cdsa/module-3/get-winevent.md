@@ -10,8 +10,7 @@ The `Get-WinEvent` cmdlet is an indispensable tool in PowerShell for querying Wi
 
 #### See available Logs
 
-```powershell-session
-
+```powershell
 Get-WinEvent -ListLog *
 ```
 
@@ -19,8 +18,7 @@ By using the pipe ( | ), we can input the output from the previus command in the
 
 #### list of logs with displayed essential properties
 
-```powershell-session
-
+```powershell
 Get-WinEvent -ListLog * | Select-Object LogName, RecordCount, IsClassicLog, IsEnabled, LogMode, LogType | Format-Table -AutoSize
 ```
 
