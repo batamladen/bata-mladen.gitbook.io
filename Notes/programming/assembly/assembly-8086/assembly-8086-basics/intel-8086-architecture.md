@@ -15,17 +15,17 @@
 
 **Mem organization**
 
-<figure><img src="../../../.gitbook/assets/mem org for 8086.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/mem org for 8086.png" alt=""><figcaption></figcaption></figure>
 
 **Pins**
 
-<figure><img src="../../../.gitbook/assets/pins.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/pins.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Block Diagram
 
-<figure><img src="../../../.gitbook/assets/block dia.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/block dia.png" alt=""><figcaption></figcaption></figure>
 
 Two main units of the 8086 processor:&#x20;
 
@@ -60,7 +60,7 @@ Feature of fetching the next instruction while the current instruction is execut
 
 
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241115143717.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241115143717.png" alt=""><figcaption></figcaption></figure>
 
 **Segment registers** are a set of **16-bit registers** in x86 processors that hold the **base addresses of memory segments**.
 
@@ -72,7 +72,7 @@ Each segment register contains starting address of a segment (called also: Base 
 
 **Memory Segmentation**
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241115143353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241115143353.png" alt=""><figcaption></figcaption></figure>
 
 **Memory segmentation** is a memory management technique used in computer systems, especially in early processors like the Intel 8086, to divide memory into distinct **segments**. Each segment represents a logical section of memory with a specific purpose, which helps organize data, code, and the stack, allowing for more efficient memory access and usage. Segmentation enables the CPU to access a **larger memory space** than it could with a single flat address space.
 
@@ -88,15 +88,15 @@ Internal architecture of 8086 allows usage of 4 active segments with the help of
 * ES - Extra Segment\
 
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241115143540.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241115143540.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### Address Summer
 
-<figure><img src="../../../.gitbook/assets/adress summer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/adress summer.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/adress summer 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/adress summer 2.png" alt=""><figcaption></figcaption></figure>
 
 * The **CS** register holds the upper 16-bits of the starting address of the segment from which the BIU is currently fetching the instruction code byte.
 * The **SS** register is used for the upper 16-bits of the starting address for the program stack
@@ -112,7 +112,7 @@ This value must be offset from (added to) the segment base address in CS to prod
 
 
 
-<figure><img src="../../../.gitbook/assets/Instruction Poiner (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Instruction Poiner (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -143,7 +143,7 @@ It contains:
 
 !\[\[Control Circuit, Instruction Decoder, ALU.png]]
 
-<figure><img src="../../../.gitbook/assets/Control Circuit, Instruction Decoder, ALU.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Control Circuit, Instruction Decoder, ALU.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -151,9 +151,9 @@ It contains:
 
 ▪ A special purpose 16-bit register. ▪ There are 9 valid flag bits. ▪The flag bits are changed to 0 or 1 depending on the value of result after arithmetic or logical operations. ▪ The flag bits can be divided into two sections – control flags and status flags
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241115152703 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241115152703 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Flag Register.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Flag Register.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="260">Flag</th><th>Bit.</th><th>Description</th></tr></thead><tbody><tr><td>CF (Carry Flag)</td><td>0</td><td>Set if an arithmetic operation generates a carry out or borrow into the most significant bit</td></tr><tr><td>PF (Parity Flag)</td><td>2</td><td>Set if the result of an operation has an even number of 1-bits; used for error checking</td></tr><tr><td>AF (Auxiliary Carry Flag)</td><td>4</td><td>Set if there is a carry or borrow between the lower and upper nibbles (used in BCD arithmetic)</td></tr><tr><td>ZF (Zero Flag)</td><td>6</td><td>Set if the result of an operation is zero</td></tr><tr><td>SF (Sign Flag)</td><td>7</td><td>Set if the result of an operation is negative (most significant bit is 1).</td></tr><tr><td>TF (Trap Flag)</td><td>8</td><td>Enables single-step mode for debugging, causing an interrupt after each instruction</td></tr><tr><td>IF (Interrupt Flag)</td><td>9</td><td>Controls the ability to respond to interrupts; if set, the CPU will respond to maskable interrupts</td></tr><tr><td>DF (Direction Flag)</td><td>10</td><td>Controls the ability to respond to interrupts; if set, the CPU will respond to maskable interruptst</td></tr><tr><td>OF (Overflow Flag)</td><td>11</td><td>Set if an arithmetic operation generates a result too large to fit in the destination operand</td></tr></tbody></table>
 
@@ -168,7 +168,7 @@ It contains:
 
 
 
-<figure><img src="../../../.gitbook/assets/General purpose registers.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/General purpose registers.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -206,7 +206,7 @@ int 0x21         ;terminate program
 
 **The For Loop Block Diagram**
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124744.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124744.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -239,7 +239,7 @@ int 21h               ; Terminate program
 
 **The While-Loop block diagram**
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124830 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124830 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -266,7 +266,7 @@ int 21h               ; Terminate the program
 
 **Do-While Loop block diagram**
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124950.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124950.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -319,9 +319,9 @@ int 20h               ; Terminate the program
 
 A break statement can be implemented using conditional jumps and labels to exit a loop prematurely based on a certain condition.
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124442.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124442.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124513.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124513.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -329,9 +329,9 @@ A break statement can be implemented using conditional jumps and labels to exit 
 
 A continue statement can be implemented using conditional jumps and labels to skip the current iteration of a loop and proceed to the next iteration based on a certain condition.
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124538.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124538.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124551.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124551.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -343,7 +343,7 @@ Use loops to iterate over arrays or data structures, performing operations on ea
 
 
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124623.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124623.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -353,4 +353,4 @@ Loops can be used for string manipulation, iterating over characters in a string
 
 
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241222124648.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241222124648.png" alt=""><figcaption></figcaption></figure>

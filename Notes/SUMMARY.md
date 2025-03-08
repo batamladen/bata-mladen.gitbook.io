@@ -71,23 +71,25 @@
     * [Phonetic Alphabet](programming/python/examples-projects/phonetic-alphabet.md)
     * [Miles to KM Converter](programming/python/examples-projects/miles-to-km-converter.md)
     * [Pomodoro Timer](programming/python/examples-projects/pomodoro-timer.md)
-* [Assembly 8086](programming/assembly-8086/README.md)
-  * [Assembly 8086 basics](programming/assembly-8086/assembly-8086-basics/README.md)
-    * [Basic Concepts](programming/assembly-8086/assembly-8086-basics/basic-concepts.md)
-    * [Intel 8086 Architecture](programming/assembly-8086/assembly-8086-basics/intel-8086-architecture.md)
-    * [Assembly Language Basics](programming/assembly-8086/assembly-8086-basics/assembly-language-basics.md)
-    * [Memory and Register Organization (part 1)](programming/assembly-8086/assembly-8086-basics/memory-and-register-organization-part-1.md)
-    * [Memory and Register Organization (part 2)](programming/assembly-8086/assembly-8086-basics/memory-and-register-organization-part-2.md)
-    * [Data Transfer & Algoritmic Operations](programming/assembly-8086/assembly-8086-basics/data-transfer-and-algoritmic-operations.md)
-    * [Control Structures](programming/assembly-8086/assembly-8086-basics/control-structures.md)
-  * [Examples/Projects](programming/assembly-8086/examples-projects/README.md)
-    * [Assembly Basics Tasks](programming/assembly-8086/examples-projects/assembly-basics-tasks.md)
-    * [Addition of two 8-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-8-bit-numbers.md)
-    * [Addition of two 16-bit numbers](programming/assembly-8086/examples-projects/addition-of-two-16-bit-numbers.md)
-    * [Display "Hello"](programming/assembly-8086/examples-projects/display-hello.md)
-    * [Flags Practice](programming/assembly-8086/examples-projects/flags-practice.md)
-    * [Reverse a String](programming/assembly-8086/examples-projects/reverse-a-string.md)
-    * [Simple Arithmetic](programming/assembly-8086/examples-projects/simple-arithmetic.md)
+* [Assembly](programming/assembly/README.md)
+  * [Assembly 8086 (16-bit)](programming/assembly/assembly-8086/README.md)
+    * [Assembly 8086 basics](programming/assembly/assembly-8086/assembly-8086-basics/README.md)
+      * [Basic Concepts](programming/assembly/assembly-8086/assembly-8086-basics/basic-concepts.md)
+      * [Intel 8086 Architecture](programming/assembly/assembly-8086/assembly-8086-basics/intel-8086-architecture.md)
+      * [Assembly Language Basics](programming/assembly/assembly-8086/assembly-8086-basics/assembly-language-basics.md)
+      * [Memory and Register Organization (part 1)](programming/assembly/assembly-8086/assembly-8086-basics/memory-and-register-organization-part-1.md)
+      * [Memory and Register Organization (part 2)](programming/assembly/assembly-8086/assembly-8086-basics/memory-and-register-organization-part-2.md)
+      * [Data Transfer & Algoritmic Operations](programming/assembly/assembly-8086/assembly-8086-basics/data-transfer-and-algoritmic-operations.md)
+      * [Control Structures](programming/assembly/assembly-8086/assembly-8086-basics/control-structures.md)
+    * [Examples/Projects](programming/assembly/assembly-8086/examples-projects/README.md)
+      * [Assembly Basics Tasks](programming/assembly/assembly-8086/examples-projects/assembly-basics-tasks.md)
+      * [Addition of two 8-bit numbers](programming/assembly/assembly-8086/examples-projects/addition-of-two-8-bit-numbers.md)
+      * [Addition of two 16-bit numbers](programming/assembly/assembly-8086/examples-projects/addition-of-two-16-bit-numbers.md)
+      * [Display "Hello"](programming/assembly/assembly-8086/examples-projects/display-hello.md)
+      * [Flags Practice](programming/assembly/assembly-8086/examples-projects/flags-practice.md)
+      * [Reverse a String](programming/assembly/assembly-8086/examples-projects/reverse-a-string.md)
+      * [Simple Arithmetic](programming/assembly/assembly-8086/examples-projects/simple-arithmetic.md)
+  * [Assembly x86 (32-bit)](programming/assembly/assembly-x86-32-bit.md)
 
 ## 🔐 CRYPTOGRAPHY
 
@@ -219,7 +221,7 @@
 
 ## ⚙️ Reverse Engineering
 
-* [Soon...](reverse-engineering/soon....md)
+* [Intro](reverse-engineering/soon....md)
 
 ## 🦠 Malware Analysis
 

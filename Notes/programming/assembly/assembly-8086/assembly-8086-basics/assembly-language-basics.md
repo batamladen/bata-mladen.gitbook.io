@@ -20,7 +20,7 @@ are essential for writing efficient and correct programs.
 * Labels are used for defining addresses in the program and creating jump targets.&#x20;
 * Comments start with a semicolon ( ; ) and are used for documentation.
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

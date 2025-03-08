@@ -2,7 +2,7 @@
 
 ## Programming Languages
 
-<figure><img src="../../../.gitbook/assets/programing languages.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/programing languages.png" alt=""><figcaption></figcaption></figure>
 
 Types of programming languages:
 
@@ -21,7 +21,7 @@ We use block schemas to describe and algorythm, that consits of start block, end
 
 
 
-<figure><img src="../../../.gitbook/assets/block schemas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/block schemas.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ A translator is a program used to convert the source code into object code (mach
 * Decimal - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 * Hexidecimal - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Binary Coded Decimal
 
@@ -76,15 +76,15 @@ Types of **computer architectures**—the way computers are structured to perfor
 
 
 
-<figure><img src="../../../.gitbook/assets/CISC.png" alt=""><figcaption><p>CISC</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CISC.png" alt=""><figcaption><p>CISC</p></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/RISC (1).png" alt=""><figcaption><p>RISC</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/RISC (1).png" alt=""><figcaption><p>RISC</p></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/ARM (4).png" alt=""><figcaption><p>ARM</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ARM (4).png" alt=""><figcaption><p>ARM</p></figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@ CPU clock speed is the number of cycles a CPU performs per second. Measured in G
 
 
 
-<figure><img src="../../../.gitbook/assets/CPU clock.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CPU clock.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

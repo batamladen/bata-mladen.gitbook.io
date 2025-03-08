@@ -24,7 +24,7 @@ Together with the Code Segment (CS) register, the IP forms the effective address
 
 ### Flag Registry
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241115152703.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241115152703.png" alt=""><figcaption></figcaption></figure>
 
 The FLAGS register in the Intel 8086 microprocessor is a 16-bit register that contains various flags, each of which indicates a specific condition or status resulting from the execution of instructions. The FLAGS register plays a crucial role in program control and decision-making.
 
@@ -70,21 +70,21 @@ Purpose: Indicates whether an arithmetic operation resulted in an overflow (resu
 
 #### Examples
 
-<figure><img src="../../../.gitbook/assets/flags example.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags example.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags example 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags example 2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags exampe 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags exampe 3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags example 4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags example 4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags example 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags example 5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags example 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags example 7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags registry 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags registry 6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/flags example 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flags example 8.png" alt=""><figcaption></figcaption></figure>
 
 
 

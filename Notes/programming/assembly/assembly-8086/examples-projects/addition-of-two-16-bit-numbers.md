@@ -29,7 +29,7 @@ end start
 {% endtab %}
 
 {% tab title="flowchart.pgn" %}
-<figure><img src="../../../.gitbook/assets/flowchart1.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/flowchart1.PNG" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

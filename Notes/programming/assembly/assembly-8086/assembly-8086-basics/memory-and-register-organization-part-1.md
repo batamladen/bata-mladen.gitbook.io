@@ -233,9 +233,9 @@ The Intel 8086 has **14 registers**, which can be categorized into the following
 4. Instruction Pointer
 5. Flags Register
 
-<figure><img src="../../../.gitbook/assets/registers table.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/registers table.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/intel 8086 scheme.png" alt=""><figcaption><p>intel 8086 scheme</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/intel 8086 scheme.png" alt=""><figcaption><p>intel 8086 scheme</p></figcaption></figure>
 
 ***
 
@@ -256,7 +256,7 @@ These are used for arithmetic, logic, data transfer, and other general operation
   * Used in I/O operations and for extended precision in multiplication/division.
   * **DH** and **DL**.
 
-<figure><img src="../../../.gitbook/assets/data registers.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/data registers.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

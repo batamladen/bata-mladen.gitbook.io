@@ -181,7 +181,7 @@ ADD [DI], 20    ; Add the immediate value 20 to the memory location             
 
 
 
-<figure><img src="../../../.gitbook/assets/Pasted image 20241215105233.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pasted image 20241215105233.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
