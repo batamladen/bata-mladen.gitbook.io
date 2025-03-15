@@ -72,6 +72,7 @@
     * [Miles to KM Converter](programming/python/examples-projects/miles-to-km-converter.md)
     * [Pomodoro Timer](programming/python/examples-projects/pomodoro-timer.md)
     * [Clicker](programming/python/examples-projects/clicker.md)
+    * [Armabillo](programming/python/examples-projects/armabillo.md)
 * [Assembly](programming/assembly/README.md)
   * [Assembly 8086 (16-bit)](programming/assembly/assembly-8086/README.md)
     * [Assembly 8086 basics](programming/assembly/assembly-8086/assembly-8086-basics/README.md)
@@ -168,11 +169,15 @@
     * [MITTRE ATT\&CK](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/mittre-att-and-ck.md)
     * [SIEM visualization (5-8)](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/siem-visualization-5-8.md)
     * [The Triaging Process](certificates/cdsa/module-2-security-monitoring-and-siem-fundamentals/the-triaging-process.md)
-  * [Module 3](certificates/cdsa/module-3.md)
-    * [Windows Event Logs](certificates/cdsa/module-3/windows-event-logs.md)
-    * [Analyzing Evil With Sysmon & Event Logs](certificates/cdsa/module-3/analyzing-evil-with-sysmon-and-event-logs.md)
-    * [Event Tracing for Windows (ETW)](certificates/cdsa/module-3/event-tracing-for-windows-etw.md)
-    * [Get-WinEvent](certificates/cdsa/module-3/get-winevent.md)
+  * [Module 3 - Windows Events & Finding Evil](certificates/cdsa/module-3-windows-events-and-finding-evil/README.md)
+    * [Windows Event Logs](certificates/cdsa/module-3-windows-events-and-finding-evil/windows-event-logs.md)
+    * [Analyzing Evil With Sysmon & Event Logs](certificates/cdsa/module-3-windows-events-and-finding-evil/analyzing-evil-with-sysmon-and-event-logs.md)
+    * [Event Tracing for Windows (ETW)](certificates/cdsa/module-3-windows-events-and-finding-evil/event-tracing-for-windows-etw.md)
+    * [Get-WinEvent](certificates/cdsa/module-3-windows-events-and-finding-evil/get-winevent.md)
+  * [Module 4 - Threat Hunting](certificates/cdsa/module-4-threat-hunting/README.md)
+    * [Threat Hunting Fundamentals](certificates/cdsa/module-4-threat-hunting/threat-hunting-fundamentals.md)
+    * [The Threat Hunting Process](certificates/cdsa/module-4-threat-hunting/the-threat-hunting-process.md)
+    * [Threat Hunting Glossary](certificates/cdsa/module-4-threat-hunting/threat-hunting-glossary.md)
 
 ## 🤖 MACHINE LEARNING
 
