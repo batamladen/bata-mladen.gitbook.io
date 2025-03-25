@@ -178,6 +178,10 @@
     * [Threat Hunting Fundamentals](certificates/cdsa/module-4-threat-hunting/threat-hunting-fundamentals.md)
     * [The Threat Hunting Process](certificates/cdsa/module-4-threat-hunting/the-threat-hunting-process.md)
     * [Threat Hunting Glossary](certificates/cdsa/module-4-threat-hunting/threat-hunting-glossary.md)
+    * [Threat Intelligence](certificates/cdsa/module-4-threat-hunting/threat-intelligence.md)
+    * [Hunting for Stuxbot](certificates/cdsa/module-4-threat-hunting/hunting-for-stuxbot.md)
+    * [Elastic Codes](certificates/cdsa/module-4-threat-hunting/elastic-codes.md)
+  * [Introduction to Splunk](certificates/cdsa/introduction-to-splunk.md)
 
 ## 🤖 MACHINE LEARNING
 
