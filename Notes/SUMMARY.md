@@ -181,7 +181,9 @@
     * [Threat Intelligence](certificates/cdsa/module-4-threat-hunting/threat-intelligence.md)
     * [Hunting for Stuxbot](certificates/cdsa/module-4-threat-hunting/hunting-for-stuxbot.md)
     * [Elastic Codes](certificates/cdsa/module-4-threat-hunting/elastic-codes.md)
-  * [Introduction to Splunk](certificates/cdsa/introduction-to-splunk.md)
+  * [Module 5 - Understanding Log Sources and Investigating With Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/README.md)
+    * [Introduction to Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/introduction-to-splunk.md)
+    * [Intrustion Detection with Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/intrustion-detection-with-splunk.md)
 
 ## 🤖 MACHINE LEARNING
 
