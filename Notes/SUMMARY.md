@@ -183,7 +183,10 @@
     * [Elastic Codes](certificates/cdsa/module-4-threat-hunting/elastic-codes.md)
   * [Module 5 - Understanding Log Sources and Investigating With Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/README.md)
     * [Introduction to Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/introduction-to-splunk.md)
+    * [Introduction to Splunk Apps](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/introduction-to-splunk-apps.md)
     * [Intrustion Detection with Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/intrustion-detection-with-splunk.md)
+    * [Detecting Attacker Behavior With Splunk Based On TTPs](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/detecting-attacker-behavior-with-splunk-based-on-ttps.md)
+    * [Detecting Attacker Behavior With Splunk Based On Analytics](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/detecting-attacker-behavior-with-splunk-based-on-analytics.md)
 
 ## 🤖 MACHINE LEARNING
 
