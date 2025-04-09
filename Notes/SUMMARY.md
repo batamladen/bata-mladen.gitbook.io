@@ -187,6 +187,15 @@
     * [Intrustion Detection with Splunk](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/intrustion-detection-with-splunk.md)
     * [Detecting Attacker Behavior With Splunk Based On TTPs](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/detecting-attacker-behavior-with-splunk-based-on-ttps.md)
     * [Detecting Attacker Behavior With Splunk Based On Analytics](certificates/cdsa/module-5-understanding-log-sources-and-investigating-with-splunk/detecting-attacker-behavior-with-splunk-based-on-analytics.md)
+  * [Module 6](certificates/cdsa/module-6/README.md)
+    * [Introduction to Active Directory](certificates/cdsa/module-6/introduction-to-active-directory.md)
+    * [Overview](certificates/cdsa/module-6/overview.md)
+    * [Kerberoasting](certificates/cdsa/module-6/kerberoasting.md)
+    * [AS-REProasting](certificates/cdsa/module-6/as-reproasting.md)
+    * [GPP Passwords (Group Policy Preferences)](certificates/cdsa/module-6/gpp-passwords-group-policy-preferences.md)
+    * [GPO](certificates/cdsa/module-6/gpo.md)
+    * [Credientals Share](certificates/cdsa/module-6/credientals-share.md)
+    * [Credentials in Object Properties](certificates/cdsa/module-6/credentials-in-object-properties.md)
 
 ## 🤖 MACHINE LEARNING
 
