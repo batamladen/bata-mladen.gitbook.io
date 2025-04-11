@@ -196,6 +196,8 @@
     * [GPO](certificates/cdsa/module-6/gpo.md)
     * [Credientals Share](certificates/cdsa/module-6/credientals-share.md)
     * [Credentials in Object Properties](certificates/cdsa/module-6/credentials-in-object-properties.md)
+    * [DCSync](certificates/cdsa/module-6/dcsync.md)
+    * [Golden Ticket](certificates/cdsa/module-6/golden-ticket.md)
 
 ## 🤖 MACHINE LEARNING
 
