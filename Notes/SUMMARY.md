@@ -198,6 +198,8 @@
     * [Credentials in Object Properties](certificates/cdsa/module-6/credentials-in-object-properties.md)
     * [DCSync](certificates/cdsa/module-6/dcsync.md)
     * [Golden Ticket](certificates/cdsa/module-6/golden-ticket.md)
+    * [Kerberos  Constrained Delegation](certificates/cdsa/module-6/kerberos-constrained-delegation.md)
+    * [Print Spooler & NTLM Relaying](certificates/cdsa/module-6/print-spooler-and-ntlm-relaying.md)
 
 ## 🤖 MACHINE LEARNING
 
