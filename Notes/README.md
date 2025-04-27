@@ -16,13 +16,11 @@ I have taken this notes based on my own understandings and there might be someth
 
 #### Check out my other projects and content about things I am passionate about below😄
 
-<img src="https://www.notion.so/icons/coffee_orange.svg" alt="https://www.notion.so/icons/coffee_orange.svg" data-size="line">[**Buy me a coffee**](https://buymeacoffee.com/python_hub)
+<img src=".gitbook/assets/icon (1).png" alt="" data-size="line">  [**Armadillo**](https://github.com/batamladen/Armadillo) - An Encryption App
 
-<img src=".gitbook/assets/graduate.png" alt="" data-size="line"> [**Python course (On Serbian Language)**](https://buymeacoffee.com/python_hub/e/231937)
+<img src=".gitbook/assets/instagram (1).png" alt="" data-size="line"> [**PythonHub**](https://www.instagram.com/_python_hub/) **-** Instagram Page
 
-<img src=".gitbook/assets/graduate.png" alt="" data-size="line"> [**Java course (On Serbian Language)**](https://buymeacoffee.com/python_hub/e/242099)
-
-<img src=".gitbook/assets/instagram (1).png" alt="" data-size="line"> [**PythonHub Instagram Page**](https://www.instagram.com/_python_hub/)
+:robot: [**Webort**](https://batamladen.github.io/Webort/index.html) - Portfolio Website Generator
 
 
 
