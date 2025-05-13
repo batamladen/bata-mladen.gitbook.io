@@ -208,6 +208,9 @@
 
 * [Learning Algorythm Types](machine-learning/learning-algorythm-types/README.md)
   * [Supervised ML](machine-learning/learning-algorythm-types/supervised-ml/README.md)
+    * [Linear Regression](machine-learning/learning-algorythm-types/supervised-ml/linear-regression.md)
+    * [KNN](machine-learning/learning-algorythm-types/supervised-ml/knn.md)
+    * [Decision Tree](machine-learning/learning-algorythm-types/supervised-ml/decision-tree.md)
     * [Random Forest](machine-learning/learning-algorythm-types/supervised-ml/random-forest.md)
     * [Support Vector Machine](machine-learning/learning-algorythm-types/supervised-ml/support-vector-machine/README.md)
       * [SVC](machine-learning/learning-algorythm-types/supervised-ml/support-vector-machine/svc/README.md)
