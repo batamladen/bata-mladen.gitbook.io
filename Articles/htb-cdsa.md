@@ -1,8 +1,10 @@
 ---
 hidden: true
+cover: .gitbook/assets/download (1) (1).png
+coverY: 259
 ---
 
-# HTB CDSA
+# 🛡️ HTB CDSA
 
 ## Intro
 
@@ -59,5 +61,67 @@ And at the end of my research the finalist was clear - CDSA by HTB.
 
 
 
+{% hint style="success" %}
+At the moment I am 1 month in it and I'm learning whenever I have the time to do so.\
+Once I get to the certificate I will update this page with more personal opinions on the course...
+{% endhint %}
 
+***
+
+## The Modules
+
+The course has 15 modules that HAVE to be 100% finished if you want to buy the exam voucher.
+
+The modules included are:
+
+* Incident Handling Process
+* Security Monitoring & SIEM Fundamentals
+* Windows Event Logs & Finding Evil
+* Introduction to Threat Hunting & Hunting With Elastic
+* Understanding Log Sources & Investigating with Splunk
+* Windows Attacks & Defense
+* Intro to Network Traffic Analysis
+* Intermediate Network Traffic Analysis
+* Working with IDS/IPS
+* Introduction to Malware Analysis
+* JavaScript Deobfuscation
+* YARA & Sigma for SOC Analysts
+* Introduction to Digital Forensics
+* Detecting Windows Attacks with Splunk
+* Security Incident Reporting
+
+
+
+Each module can be unlocked with a one-time payment. You pay in "cubes" that can be purchased on the website, or you pick to pay for one of the monthly subscriptions. (if you are  student you can applay for a monthly student subscription - $8 incl. VAT)
+
+
+
+After almost each lesson you will have at least a open type question, but in most cases it will be a hands-on lab.
+
+***
+
+## How to connect to the labs
+
+The process is nicely explained on the website but in short you need to connect to a VPN server of theirs using OpenVPN protocol. After that you can activate the lab and interact with the IP address you are given.
+
+***
+
+## The exam
+
+#### <mark style="background-color:yellow;">Prerequisite</mark>
+
+Completion of the full SOC Analyst job-role path on HTB Academy
+
+#### <mark style="background-color:yellow;">Exam Duration</mark>
+
+Once you start the exam, you have 7 days to finish it. Finishing the exam includes finding what is required and writing a well structured and defined report.
+
+The report is submitted at the end, and reviewed by a specialist from HTB. When done reviewing he will send you a message that contains information what you did well and where you made mistakes, as well as the points and the result.
+
+At the end you can pick to order the Physical Bundle to have the cert, tee-shirt and all the goodies for a celebration picture and a nice memory.
+
+Wishing you all the luck if you start the journey, i didn't finish it yet but can tell you i like the course a lot, the community is HUGE and the support from the htb team is unmached.
+
+Love. 💚\
+BataMladen.
 
