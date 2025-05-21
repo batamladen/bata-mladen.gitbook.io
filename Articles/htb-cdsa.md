@@ -20,7 +20,7 @@ Among large numbers of CTF events, Machines, Sherlocks etc... They are also maki
 
 The platform's growth was organic, fueled by word of mouth and community engagement.
 
-Over time, HTB evolved into a comprehensive cybersecurity training platform, offering learning experiences for individuals and organizations. Today they have about 2 million users and 180 employees across different countries.
+Over time, HTB evolved into a comprehensive cybersecurity training platform, offering learning experiences for individuals and organizations. Today they have about 3 million users and 200-500 employees across different countries.
 
 {% hint style="info" %}
 **Did you know?**
@@ -55,7 +55,7 @@ I was aiming for my first job as a SOC Analyst and wanted to get to know my futu
 I am the type of guy that wants to know all of the sources available for the certain thing, and pick the best one for me.
 
 I researched all the available courses and all the things that one certificate should include.\
-From the community recgogdization, quality of the amterial, hands on exercises, pricing etc...
+From the community recognition, quality of the material, hands on exercises, pricing etc...
 
 And at the end of my research the finalist was clear - CDSA by HTB.
 
@@ -92,7 +92,7 @@ The modules included are:
 
 
 
-Each module can be unlocked with a one-time payment. You pay in "cubes" that can be purchased on the website, or you pick to pay for one of the monthly subscriptions. (if you are  student you can applay for a monthly student subscription - $8 incl. VAT)
+Each module can be unlocked with a one-time payment. You pay in "cubes" that can be purchased on the website, or you pick to pay for one of the monthly subscriptions. (if you are student you can apply for a monthly student subscription - $8 incl. VAT)
 
 
 
@@ -120,7 +120,7 @@ The report is submitted at the end, and reviewed by a specialist from HTB. When 
 
 At the end you can pick to order the Physical Bundle to have the cert, tee-shirt and all the goodies for a celebration picture and a nice memory.
 
-Wishing you all the luck if you start the journey, i didn't finish it yet but can tell you i like the course a lot, the community is HUGE and the support from the htb team is unmached.
+Wishing you all the luck if you start the journey, I didn't finish it yet but can tell you i like the course a lot already, the community is HUGE and the support from the htb team is unmached.
 
 Love. 💚\
 BataMladen.
