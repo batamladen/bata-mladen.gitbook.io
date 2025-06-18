@@ -53,7 +53,7 @@ The exams are usually available for a few hours to a few days depending on the o
 
 ## My experience with CDSA
 
-I was aiming for my first job as a SOC Analyst and wanted to get to know my future job better, so i decided to take a blue team course.
+I am aiming for my first job as a SOC Analyst and wanted to get to know my future job better, so I decided to take a blue team course.
 
 I am the type of guy that wants to know all of the sources available for the certain thing, and pick the best one for me.
 
