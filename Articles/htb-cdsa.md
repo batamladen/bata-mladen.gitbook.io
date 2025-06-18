@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: .gitbook/assets/download (1) (1).png
 coverY: 259
 ---
@@ -40,7 +39,11 @@ It offers a hands-on approach to validating your skills in SOC operations and in
 
 ## Courses Comparison
 
-<table><thead><tr><th>Certification</th><th width="123.20001220703125" data-type="rating" data-max="5">Difficulty</th><th width="195.2000732421875">Price</th><th width="163.9998779296875" data-type="rating" data-max="5">Industry Recognition</th><th data-type="rating" data-max="5">Hands-On Experience</th><th> Exam Format</th><th>Report Needed</th><th>Access</th></tr></thead><tbody><tr><td>HTB CDSA</td><td>4</td><td><em>$210+</em></td><td>3</td><td>5</td><td>Hands-On <br>(7-days)</td><td>Yes</td><td>Lifetime</td></tr><tr><td>BTL1</td><td>3</td><td>$522</td><td>3</td><td>4</td><td>Hands-On<br>72-hours</td><td>Yes</td><td>4 months</td></tr><tr><td>CySA+</td><td>3</td><td>$404</td><td>5</td><td>1</td><td>ABC questions</td><td>No</td><td>12 months</td></tr><tr><td>OSDA</td><td>4</td><td>$1750</td><td>5</td><td>4</td><td>Hands-On<br>72-hours</td><td>Yes</td><td>Lifetime</td></tr><tr><td>PSAA</td><td>3</td><td>$250</td><td>4</td><td>5</td><td>Hands-On<br>72-hours</td><td>Yes</td><td>12 months</td></tr><tr><td>CCD</td><td>3</td><td>$800</td><td>3</td><td>4</td><td>48-hours</td><td>No</td><td>4 months</td></tr></tbody></table>
+I have been connecting with people who have taken different blue team courses to create the comparison below, have in mind that i the comparison below is based on my opinion and information gathered, some information like the pricing can be incorrect (and if it is please let me know)
+
+In the price I have considered now much on avarage is spent per course (different paying programs make it difficult to comapre, some have subscriptions, some buy separate modules, some are pay-and-learn...)
+
+<table><thead><tr><th>Certification</th><th width="123.20001220703125" data-type="rating" data-max="5">Difficulty</th><th width="195.2000732421875">Price</th><th width="163.9998779296875" data-type="rating" data-max="5">Industry Recognition</th><th data-type="rating" data-max="5">Hands-On Experience</th><th> Exam Format</th><th>Report Needed</th><th>Access</th></tr></thead><tbody><tr><td>HTB CDSA</td><td>4</td><td><em>$210+ (student)</em><br><em>$500+ (regular)</em></td><td>3</td><td>5</td><td>Hands-On <br>(7-days)</td><td>Yes</td><td>Lifetime</td></tr><tr><td>BTL1</td><td>3</td><td>$522</td><td>3</td><td>4</td><td>Hands-On<br>72-hours</td><td>Yes</td><td>4 months</td></tr><tr><td>CySA+</td><td>3</td><td>$404</td><td>5</td><td>1</td><td>Closed Type</td><td>No</td><td>12 months</td></tr><tr><td>OSDA</td><td>4</td><td>$1750</td><td>5</td><td>4</td><td>Hands-On<br>72-hours</td><td>Yes</td><td>Lifetime</td></tr><tr><td>PSAA</td><td>3</td><td>$250</td><td>4</td><td>5</td><td>Hands-On<br>72-hours</td><td>Yes</td><td>12 months</td></tr><tr><td>CCD</td><td>3</td><td>$800</td><td>3</td><td>4</td><td>48-hours</td><td>No</td><td>4 months</td></tr></tbody></table>
 
 The access to the materials is available depending on the organization\
 The time you have to use you exam vauchers also depends on the organization\
@@ -65,6 +68,13 @@ And at the end of my research the finalist was clear - CDSA by HTB.
 At the moment I am 1 month in it and I'm learning whenever I have the time to do so.\
 Once I get to the certificate I will update this page with more personal opinions on the course...
 {% endhint %}
+
+### The only Con for now?
+
+The courses in general by HTB provide a lot of information and can be a bit overwhelming. (A video guides would save up a lot of time and make it easier - just saying)
+
+Also with this problem comes the next thing - it takes time to finish. \
+From the people I communicated with, most of them took 5-7 months to finish the course and get the cert (have in mind that they have a life).
 
 ***
 
@@ -102,7 +112,7 @@ After almost each lesson you will have at least a open type question, but in mos
 
 ## How to connect to the labs
 
-The process is nicely explained on the website but in short you need to connect to a VPN server of theirs using OpenVPN protocol. After that you can activate the lab and interact with the IP address you are given.
+The process is nicely explained on the website but in short - you need to connect to a VPN server of theirs using OpenVPN protocol. After that you can activate the lab and interact with the IP address you are given.
 
 ***
 
@@ -120,7 +130,7 @@ The report is submitted at the end, and reviewed by a specialist from HTB. When 
 
 At the end you can pick to order the Physical Bundle to have the cert, tee-shirt and all the goodies for a celebration picture and a nice memory.
 
-Wishing you all the luck if you start the journey, I didn't finish it yet but can tell you i like the course a lot already, the community is HUGE and the support from the htb team is unmached.
+Wishing you all the luck if you start the journey, I didn't finish it yet but can tell you I like the course a lot already, the community is huge and the support from the HTB team is unmached.
 
 Love. 💚\
 BataMladen.
