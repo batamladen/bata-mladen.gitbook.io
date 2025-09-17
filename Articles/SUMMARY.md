@@ -7,4 +7,5 @@
 * [#Privacy](privacy.md)
 * [#Dark Web](dark-web.md)
 * [#Offensive](offensive.md)
+* [#HTB](htb.md)
 * [🛡️ HTB CDSA](htb-cdsa.md)
