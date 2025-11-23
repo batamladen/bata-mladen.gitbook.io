@@ -25,8 +25,8 @@
   * [Pwn](ctfs/cyberapocalipse-2025/pwn.md)
 * [Holmes CTF 2025](ctfs/holmes-ctf-2025/README.md)
   * [The\_Watchman's\_Residue](ctfs/holmes-ctf-2025/the_watchmans_residue.md)
-* [Patriot CTF 2025](ctfs/patriot-ctf-2025/README.md)
-  * [OSINT/Where's Legally Distinct Waldo Four](ctfs/patriot-ctf-2025/osint-wheres-legally-distinct-waldo-four.md)
+* [Patriot CTF 2025](ctfs/patriot-ctf-2025.md)
+  * [OSINT/Where's Legally Distinct Waldo Four](osint-wheres-legally-distinct-waldo-four.md)
   * [OSINT/Waldo's Night Out](ctfs/patriot-ctf-2025/osint-waldos-night-out.md)
 
 ## 🏫 VUTP

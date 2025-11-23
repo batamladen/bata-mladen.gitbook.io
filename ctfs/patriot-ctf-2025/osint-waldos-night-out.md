@@ -38,17 +38,17 @@ Looks like an abandoned old lux hotel. Only one ussefull image in here from the 
 
 it has a paper that says, THIS AREA IN NOT OPEN FOR LIQUIDATION and a says ICL/INTERNATIONAL CONTENT LIQUIDATIONS INC.
 
-ICL/INTERNATIONAL CONTENT LIQUIDATIONS INC is a liquidation company specializing in hotel/resort liquidations.
+ICL is a liquidation company specializing in hotel/resort liquidations.
 
 
 
-We open their website and see they haev a "Past Sales" section
+We open their website and see they have a "Past Sales" section
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 
 
-Search for Virginia. We see 3 hotels, and looking at one of the images we are provided with we see the similarity.
+Search for Virginia. We see 3 hotels, and looking at one of the images we are provided with we see the similarity with one of the listed hotels.
 
 <figure><img src="../../.gitbook/assets/IMG_7471.jpg" alt=""><figcaption></figcaption></figure>
 
