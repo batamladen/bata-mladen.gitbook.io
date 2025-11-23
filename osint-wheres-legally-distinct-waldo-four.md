@@ -24,4 +24,4 @@ And after a short digital walk - we found it.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Searching at Google Maps from the image the image was taken o, there is only one building named Krug Hall.
+Searching at Google Maps from the angle the image was taken from, there is only one building named Krug Hall.
