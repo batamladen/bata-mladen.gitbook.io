@@ -1,11 +1,16 @@
----
-description: >-
-  After a long night exploring the Northern Virginia area, Waldo woke up with a
-  horrible headache and realized he forgot the events of the previous night. Can
-  you help him remember where he was?  Enter
----
-
 # OSINT/Waldo's Night Out
+
+{% hint style="info" %}
+**Description:**
+
+After a long night exploring the Northern Virginia area, Waldo woke up with a horrible headache and realized he forgot the events of the previous night. Can you help him remember where he was?
+
+
+
+Enter the flag as three towns/cities that each collection of photos was taken in, separated by underscores, removing all special characters and spaces (e.g. pctf{NewYorkCity\_Philadelphia\_NewOrleans}).
+{% endhint %}
+
+
 
 We are provided with the following zip file that contains 3-4 images from each location.
 
