@@ -2,7 +2,7 @@
 description: >-
   Find the building where Waldo is. The flag is the building from which this
   photograph was taken. The full building name is the flag. Seperate spaces with
-  underscores.  "Apply eyeballs liberally to the
+  underscores.
 ---
 
 # OSINT/Where's Legally Distinct Waldo Four
