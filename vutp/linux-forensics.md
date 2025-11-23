@@ -55,11 +55,9 @@ And we begin...
 
 first, we want to make sure we have the right tools.
 
-Since we are working with .e01,02... witch are all parts of one image, we want to have the right tools for examination.\
+Since we are working with .e01,02... witch are all parts of one image, we want to have the right tools for examination.<br>
 
-
-I will use ewf for analyzing, examination. (Another popular option on linux is autopsy)\
-
+I will use ewf for analyzing, examination. (Another popular option on linux is autopsy)<br>
 
 To download the tools we run:
 
@@ -67,7 +65,7 @@ To download the tools we run:
 sudo apt-get install ewf-tools
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -79,7 +77,7 @@ Now we can examine the data associated with the image by running:
 ewfinfo /home/kali/Downloads/UTP\ CTF/ctf.E01
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When all the parts of the image are extracted in the same folder, the OS will se it as one whole image, so you only need to specify the first part of the image to refer to the whole. (ctf.E01)
@@ -211,8 +209,7 @@ User is lazy. Password is part of the XKCD comics 936.
 
 The hint we have indicates that the password is related to XKCD comic number 936, which is titled "Password Strength." In this comic, it is explained how using a passphrase composed of multipe, easy to remember words, is way more secure than using a complex single password.
 
-The one used in the comic was: correct horse battery staple\
-
+The one used in the comic was: correct horse battery staple<br>
 
 Having in mind the hint from class "_One letter is missing_" i made a wordlist form the phrase and ereased every letter that could be ereased and made around 20-30 length wordlist.
 

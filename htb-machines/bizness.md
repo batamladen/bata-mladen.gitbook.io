@@ -107,13 +107,11 @@ f62f6868b3151990af4621e3d506a999
 
 ## **Priviliege Escalation**
 
-Searching around the files and gathering more information we come through a valuable file which contains a SHA-Hashed password.\
-
+Searching around the files and gathering more information we come through a valuable file which contains a SHA-Hashed password.<br>
 
 <figure><img src="../.gitbook/assets/Untitled (10).png" alt=""><figcaption><p>SHA-Hashed passwor</p></figcaption></figure>
 
-Before we use Hashcat for cracking the hash, let's first sanitize the data using [CyberChef](https://gchq.github.io/CyberChef/#recipe=Find_/_Replace\(%7B%27option%27:%27Regex%27,%27string%27:%27_%27%7D,%27/%27,false,false,false,false\)Find_/_Replace\(%7B%27option%27:%27Regex%27,%27string%27:%27-%27%7D,%27%2B%27,false,false,false,false\)From_Base64\(%27A-Za-z0-9%2B/%3D%27,false,false\)To_Hex\(%27None%27,0\)\&input=dVAwX1FhVkJwRFdGZW84LWRSekRxUndYUTJJ). This will reverse the encoding changes made by base64.urlsafe\_b64encode() and prepare it for hash analysis.\
-
+Before we use Hashcat for cracking the hash, let's first sanitize the data using [CyberChef](https://gchq.github.io/CyberChef/#recipe=Find_/_Replace\(%7B%27option%27:%27Regex%27,%27string%27:%27_%27%7D,%27/%27,false,false,false,false\)Find_/_Replace\(%7B%27option%27:%27Regex%27,%27string%27:%27-%27%7D,%27%2B%27,false,false,false,false\)From_Base64\(%27A-Za-z0-9%2B/%3D%27,false,false\)To_Hex\(%27None%27,0\)\&input=dVAwX1FhVkJwRFdGZW84LWRSekRxUndYUTJJ). This will reverse the encoding changes made by base64.urlsafe\_b64encode() and prepare it for hash analysis.<br>
 
 <figure><img src="../.gitbook/assets/Untitled (11).png" alt=""><figcaption><p>Data sanitization</p></figcaption></figure>
 

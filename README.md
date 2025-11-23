@@ -1,4 +1,10 @@
-# All
+# Intro
 
-<table data-card-size="large" data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="dead-pirate-society.md">dead-pirate-society.md</a></td><td><a href="ctf.md">ctf.md</a></td><td><a href=".gitbook/assets/DEAD PIRATE SOCIETY (1).webp">DEAD PIRATE SOCIETY (1).webp</a></td></tr></tbody></table>
+## Write-up's
 
+Welcome to my collection of HTB machine and CTF conquests! Here, I'll be sharing my adventures, from the "aha" moments to the fails, all laid out and documented. Think of these write-ups as my digital diary, where I spill the beans on how I cracked those tricky challenges and emerged victorious (most of the time). \
+\
+It's all about learning and sharing the fun of hacking without breaking any rules...\
+...who knows, you might pick up a trick or two along the way :smile:.
+
+<br>
