@@ -28,6 +28,8 @@
 * [Patriot CTF 2025](ctfs/patriot-ctf-2025.md)
   * [OSINT/Where's Legally Distinct Waldo Four](osint-wheres-legally-distinct-waldo-four.md)
   * [OSINT/Waldo's Night Out](ctfs/patriot-ctf-2025/osint-waldos-night-out.md)
+* [HeroCTF v7](ctfs/heroctf-v7/README.md)
+  * [Forensics/ Operation Pensieve Breach - 1](ctfs/heroctf-v7/forensics-operation-pensieve-breach-1.md)
 
 ## 🏫 VUTP
 
