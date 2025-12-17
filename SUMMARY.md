@@ -11,6 +11,11 @@
 
 * [Noxious](htb-shelock/noxious.md)
 
+## 🟥 THM Rooms
+
+* [Advent of Cyber 2025](thm-rooms/advent-of-cyber-2025/README.md)
+  * [Have you SIEM?](thm-rooms/advent-of-cyber-2025/have-you-siem.md)
+
 ## 🚩 CTF's
 
 * [Cyberapocalipse 2024](ctfs/cyberapocalipse-2024.md)
