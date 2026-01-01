@@ -51,8 +51,7 @@ IDS monitors a network or system for malicious activity and protects a computer 
 
 a firewall is a proactive security measure that prevents unauthorized access at the network perimeter, while an IDS is a reactive tool that detects and alerts about suspicious activity within the network. Both are crucial components of a comprehensive network security strategy, working together to safeguard against various threats.
 
-\
-
+<br>
 
 
 

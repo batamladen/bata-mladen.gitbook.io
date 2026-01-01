@@ -18,8 +18,7 @@
 
 • **Doxing:** Doxing refers to gathering and publishing personally identifiable information such as an individual's name and email address or other sensitive information pertaining to an entire organization. People with malicious intent collect this information from publicly accessible channels such as the databases, social media and the Internet.
 
-• **Bot:** A "bot" (a contraction of "robot") is a software application or program that can be controlled remotely to execute or automate predefined task. Hackers use bots as agents that carry out malicious activity over the Internet. Attackers use infected machines to launch distributed denial-of-service (DDoS) attacks, keylogging, spying, etc\
-
+• **Bot:** A "bot" (a contraction of "robot") is a software application or program that can be controlled remotely to execute or automate predefined task. Hackers use bots as agents that carry out malicious activity over the Internet. Attackers use infected machines to launch distributed denial-of-service (DDoS) attacks, keylogging, spying, etc<br>
 
 ***
 
@@ -37,8 +36,7 @@ It relies on five major elements: **confidentiality, integrity, availability, au
 
 • **Authenticity:** Authenticity refers to the characteristic of communication, documents, or any data that ensures the quality of being genuine or uncorrupted. The major role of authentication is to confirm that a user is genuine. Controls such as biometrics, smart cards, and digital certificates ensure the authenticity of data, transactions, communications, and documents.
 
-• **Non-Repudiation:** Non-repudiation is a way to guarantee that the sender of a message cannot later deny having sent the message and that the recipient cannot deny having received the message. Individuals and organizations use digital signatures to ensure non-repudiation.\
-
+• **Non-Repudiation:** Non-repudiation is a way to guarantee that the sender of a message cannot later deny having sent the message and that the recipient cannot deny having received the message. Individuals and organizations use digital signatures to ensure non-repudiation.<br>
 
 ***
 
@@ -60,8 +58,7 @@ Examples of information warfare weapons include viruses, worms, Trojan horses, l
 
 Each form of information warfare consists of both **defensive** and **offensive** strategies.
 
-**• Defensive Information Warfare**: Involves all strategies and actions to defend against attacks on ICT assets. **• Offensive Information Warfare**: Involves attacks against the ICT assets of an opponent.\
-
+**• Defensive Information Warfare**: Involves all strategies and actions to defend against attacks on ICT assets. **• Offensive Information Warfare**: Involves attacks against the ICT assets of an opponent.<br>
 
 ***
 
@@ -200,8 +197,7 @@ Goals of Security Policies
 
 ### Physical Security
 
-• Physical security is the first layer of protection in any organization • It involves the protection of organizational assets from environmental and man-made threats\
-
+• Physical security is the first layer of protection in any organization • It involves the protection of organizational assets from environmental and man-made threats<br>
 
 <figure><img src="../.gitbook/assets/Pasted image 20241127092832.png" alt=""><figcaption></figcaption></figure>
 

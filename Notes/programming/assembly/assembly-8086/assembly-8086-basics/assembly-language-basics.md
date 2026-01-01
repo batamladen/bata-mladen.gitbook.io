@@ -26,8 +26,7 @@ are essential for writing efficient and correct programs.
 
 ### Data Types
 
-In 8086 Assembly, there is no strict type system as in high-level languages, but data is classified based on size and purpose.\
-
+In 8086 Assembly, there is no strict type system as in high-level languages, but data is classified based on size and purpose.<br>
 
 Common data types include:&#x20;
 

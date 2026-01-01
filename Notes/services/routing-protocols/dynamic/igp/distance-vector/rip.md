@@ -3,8 +3,7 @@
 ## **What is RIP?**
 
 **Routing Information Protocol** (RIP) is a dynamic routing protocol that uses hop count as a routing metric to find the best path between the source and the destination network. It is a distance-vector routing protocol that  works on the Network layer of the OSI model. \
-RIP uses port number 520. \
-
+RIP uses port number 520. <br>
 
 ### **Hop Count**&#x20;
 

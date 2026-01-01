@@ -181,23 +181,20 @@ Attackers and intruders use these protection techniques to hide evidence data, p
 
 #### Password Types
 
-Computing devices can store and transmit passwords as **cleartext, obfuscated, and hashed passwords**, of which only hashed passwords need cracking while the other password types can assist in the cracking phase.\
-
+Computing devices can store and transmit passwords as **cleartext, obfuscated, and hashed passwords**, of which only hashed passwords need cracking while the other password types can assist in the cracking phase.<br>
 
 **Cleartext passwords**&#x20;
 
 * Passwords are sent and stored in plaintext without any alteration&#x20;
 * Example: Windows Registry stores automatic logon password in cleartext in the registry, \
   HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon&#x20;
-* Investigators can use tools such as Cain and Ettercap to sniff cleartext passwords\
-
+* Investigators can use tools such as Cain and Ettercap to sniff cleartext passwords<br>
 
 **Obfuscated passwords** &#x20;
 
 * Passwords are stored or communicated after a transformation&#x20;
 * When transformation is reversible, password becomes unreadable when user applies an algorithm \
-  and on application of reverse algorithm, it returns to cleartext form\
-
+  and on application of reverse algorithm, it returns to cleartext form<br>
 
 **Password hashes**&#x20;
 

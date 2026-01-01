@@ -6,7 +6,7 @@ The definition for Reverse Engineering is:
 
 Before you start reading the upcoming pages for this topic, make sur you are familiar with the following:
 
-1. [Broken link](broken-reference "mention")
+1. [Broken link](/broken/pages/tlCsrDCjMx0lec6nDGg2 "mention")
 2. [assembly-8086](../programming/assembly/assembly-8086/ "mention")
 3. _And maybe C if you want to understand everything_
 

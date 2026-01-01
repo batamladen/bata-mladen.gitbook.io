@@ -38,8 +38,7 @@ ROM is a type of non-volatile memory that retains its content even when the powe
 
 ▪ **Erasable Programmable ROM (EPROM**) - Allows for reprogramming after exposure to ultraviolet light.&#x20;
 
-▪ **Electrically Erasable Programmable ROM (EEPROM)** - Can be electrically erased and reprogrammed.\
-
+▪ **Electrically Erasable Programmable ROM (EEPROM)** - Can be electrically erased and reprogrammed.<br>
 
 **Roles:**
 

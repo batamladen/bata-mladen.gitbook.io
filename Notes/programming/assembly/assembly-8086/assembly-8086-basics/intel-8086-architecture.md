@@ -36,8 +36,7 @@ Two main units of the 8086 processor:&#x20;
 
 ### BIU (Bus Interface Unit)
 
-The **BIU** is responsible for handling all data transfers between the **CPU** and **memory** or **I/O devices**. It does this by managing the **B-bus** and **C-Bus**\
-
+The **BIU** is responsible for handling all data transfers between the **CPU** and **memory** or **I/O devices**. It does this by managing the **B-bus** and **C-Bus**<br>
 
 **BIU Contains:**&#x20;
 
@@ -85,8 +84,7 @@ Internal architecture of 8086 allows usage of 4 active segments with the help of
 * CS - Code Segment&#x20;
 * DS - Data Segment
 * SS - Stack Segment
-* ES - Extra Segment\
-
+* ES - Extra Segment<br>
 
 <figure><img src="../../../../.gitbook/assets/Pasted image 20241115143540.png" alt=""><figcaption></figcaption></figure>
 

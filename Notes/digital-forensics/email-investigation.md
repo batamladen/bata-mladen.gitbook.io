@@ -104,18 +104,15 @@ Following are given some types of phishing attacks:
 
 **Spear Phishing**
 
-is when, instead of sending thousands of emails, some attackers use specialized social engineering content directed at a specific employee or a small group of employees in a specific organization to steal sensitive data such as financial information and trade secrets.\
-
+is when, instead of sending thousands of emails, some attackers use specialized social engineering content directed at a specific employee or a small group of employees in a specific organization to steal sensitive data such as financial information and trade secrets.<br>
 
 **Whaling**
 
-is a type of phishing attack that targets high-profile executives such as CEOs, CFOs, politicians, and celebrities who have complete access to confidential and highly valuable information.\
-
+is a type of phishing attack that targets high-profile executives such as CEOs, CFOs, politicians, and celebrities who have complete access to confidential and highly valuable information.<br>
 
 **Pharming**
 
-is a social engineering technique in which an attacker executes malicious programs on a victim’s computer or server. When the victim enters any URL or domain name, it automatically redirects the victim’s traffic to a website controlled by the attacker.\
-
+is a social engineering technique in which an attacker executes malicious programs on a victim’s computer or server. When the victim enters any URL or domain name, it automatically redirects the victim’s traffic to a website controlled by the attacker.<br>
 
 **Spimming**
 
@@ -127,18 +124,15 @@ Email bombing refers to the process of repeatedly sending an email message to a 
 
 #### **Mail Storms**
 
-A mail storm occurs when computers start communicating without human intervention. The flurry of junk mail sent by an accident is a mail storm. Usage of mailing lists, autoforwarding emails, automated response, and the presence of more than one email address are the various causes of a mail storm. Malicious software code is also written to create mail storms such as the “Melissa, I-Care-For-U” message. Mail storms hinder communication systems and make them inoperable. Let us now focus on the crimes supported by emails.\
-
+A mail storm occurs when computers start communicating without human intervention. The flurry of junk mail sent by an accident is a mail storm. Usage of mailing lists, autoforwarding emails, automated response, and the presence of more than one email address are the various causes of a mail storm. Malicious software code is also written to create mail storms such as the “Melissa, I-Care-For-U” message. Mail storms hinder communication systems and make them inoperable. Let us now focus on the crimes supported by emails.<br>
 
 #### **Identity Fraud**
 
-Identity fraud is the illegitimate retrieval and use of others’ personal data for malicious and monetary gains. Identity theft is a crime that is quickly gaining popularity.\
-
+Identity fraud is the illegitimate retrieval and use of others’ personal data for malicious and monetary gains. Identity theft is a crime that is quickly gaining popularity.<br>
 
 #### **Cyberstalking**
 
-Cyberstalking is a crime where attackers harass an individual, a group, or an organization using emails or IMs. Attackers try to threaten, make false accusations, defame, slander, libel, or steal the identity of the victim/victims as a part of cyberstalking. The stalker can be someone associated with a victim or a stranger.\
-
+Cyberstalking is a crime where attackers harass an individual, a group, or an organization using emails or IMs. Attackers try to threaten, make false accusations, defame, slander, libel, or steal the identity of the victim/victims as a part of cyberstalking. The stalker can be someone associated with a victim or a stranger.<br>
 
 #### **Child Abduction**
 
