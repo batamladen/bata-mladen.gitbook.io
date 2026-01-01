@@ -245,7 +245,7 @@
 * [Basic Linux Commands](linux/basic-linux-commands.md)
 * [SQL](linux/sql/README.md)
   * [MariaDB/MySQL](linux/sql/mariadb-mysql.md)
-* [Managing Users & Groups](linux/managing-users-and-groups/README.md)
+* [Managing Users & Groups](linux/managing-users-and-groups.md)
   * [Add user to sudoers](linux/managing-users-and-groups/add-user-to-sudoers.md)
   * [Create User](linux/managing-users-and-groups/create-user.md)
 
