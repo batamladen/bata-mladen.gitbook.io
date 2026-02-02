@@ -65,7 +65,7 @@ To download the tools we run:
 sudo apt-get install ewf-tools
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ Now we can examine the data associated with the image by running:
 ewfinfo /home/kali/Downloads/UTP\ CTF/ctf.E01
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When all the parts of the image are extracted in the same folder, the OS will se it as one whole image, so you only need to specify the first part of the image to refer to the whole. (ctf.E01)

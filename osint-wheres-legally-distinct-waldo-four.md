@@ -22,6 +22,6 @@ And after a short digital walk - we found it.
 
 <p align="center"><a href="https://www.gmu.edu/"><br></a></p>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Searching at Google Maps from the angle the image was taken from, there is only one building named Krug Hall.

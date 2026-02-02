@@ -35,6 +35,9 @@
   * [OSINT/Waldo's Night Out](ctfs/patriot-ctf-2025/osint-waldos-night-out.md)
 * [HeroCTF v7](ctfs/heroctf-v7/README.md)
   * [Forensics/ Operation Pensieve Breach - 1](ctfs/heroctf-v7/forensics-operation-pensieve-breach-1.md)
+* [Pascal CTF 2026](ctfs/pascal-ctf-2026/README.md)
+  * [Crypto - XorD](ctfs/pascal-ctf-2026/crypto-xord.md)
+  * [Crypto - Ice Creamer](ctfs/pascal-ctf-2026/crypto-ice-creamer.md)
 
 ## 🏫 VUTP
 
