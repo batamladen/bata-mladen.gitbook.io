@@ -93,6 +93,14 @@
       * [Simple Arithmetic](programming/assembly/assembly-8086/examples-projects/simple-arithmetic.md)
   * [Assembly x86 (32-bit)](programming/assembly/assembly-x86-32-bit.md)
 
+## 🗄️ QUERY LANGUAGES
+
+* [KQL](query-languages/kql/README.md)
+  * [Cheet-Sheet](query-languages/kql/cheet-sheet.md)
+  * [Intro](query-languages/kql/intro.md)
+  * [pipes | where | take](query-languages/kql/pipes-or-where-or-take.md)
+* [Intro](query-languages/soon....md)
+
 ## 🔐 CRYPTOGRAPHY
 
 * [Cryptography Intro](cryptography/cryptography-intro.md)
