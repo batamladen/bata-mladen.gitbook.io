@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Cybersecurity job landed!
 
 After about 2 months of active search for a job in the cybersecurity field, we landed at KDN as a MDR Analyst. :detective:

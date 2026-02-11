@@ -1,5 +1,6 @@
 ---
 description: 20.11.2025
+hidden: true
 ---
 
 # Dead Pirate Society
