@@ -99,7 +99,7 @@
   * [Cheet-Sheet](query-languages/kql/cheet-sheet.md)
   * [Intro](query-languages/kql/intro.md)
   * [pipes | where | take](query-languages/kql/pipes-or-where-or-take.md)
-* [Intro](query-languages/soon....md)
+  * [Syntax and Query Structure](query-languages/kql/syntax-and-query-structure.md)
 
 ## 🔐 CRYPTOGRAPHY
 
