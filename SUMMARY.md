@@ -38,8 +38,9 @@
 * [Pascal CTF 2026](ctfs/pascal-ctf-2026/README.md)
   * [Crypto - XorD](ctfs/pascal-ctf-2026/crypto-xord.md)
   * [Crypto - Ice Creamer](ctfs/pascal-ctf-2026/crypto-ice-creamer.md)
-* [0xFUN CTF 2026](ctfs/0xfun-ctf-2026.md)
-* [Crypto - The Slot Whisperer](ctfs/crypto-the-slot-whisperer.md)
+* [0xFUN CTF 2026](ctfs/0xfun-ctf-2026/README.md)
+  * [Crypto - The Slot Whisperer](ctfs/0xfun-ctf-2026/crypto-the-slot-whisperer.md)
+  * [Crypto - Leonine Misbegotten](ctfs/0xfun-ctf-2026/crypto-leonine-misbegotten.md)
 
 ## 🏫 VUTP
 
