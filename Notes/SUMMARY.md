@@ -100,6 +100,7 @@
   * [Intro](query-languages/kql/intro.md)
   * [pipes | where | take](query-languages/kql/pipes-or-where-or-take.md)
   * [Syntax and Query Structure](query-languages/kql/syntax-and-query-structure.md)
+  * [contains | has | startswith | endswith](query-languages/kql/contains-or-has-or-startswith-or-endswith.md)
 
 ## 🔐 CRYPTOGRAPHY
 
