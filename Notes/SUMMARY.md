@@ -104,6 +104,7 @@
   * [distinct | count | sort | order](query-languages/kql/distinct-or-count-or-sort-or-order.md)
   * [project | project-reorder | renaming fields](query-languages/kql/project-or-project-reorder-or-renaming-fields.md)
   * [and | or | limit | top](query-languages/kql/and-or-or-or-limit-or-top.md)
+  * [Working with time in KQL](query-languages/kql/working-with-time-in-kql.md)
 
 ## 🔐 CRYPTOGRAPHY
 
