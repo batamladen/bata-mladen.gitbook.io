@@ -41,6 +41,8 @@
 * [0xFUN CTF 2026](ctfs/0xfun-ctf-2026/README.md)
   * [Crypto - The Slot Whisperer](ctfs/0xfun-ctf-2026/crypto-the-slot-whisperer.md)
   * [Crypto - Leonine Misbegotten](ctfs/0xfun-ctf-2026/crypto-leonine-misbegotten.md)
+* [BITSCTF 2026](ctfs/bitsctf-2026/README.md)
+  * [Forensics - save me from this hell](ctfs/bitsctf-2026/forensics-save-me-from-this-hell.md)
 
 ## 🏫 VUTP
 
