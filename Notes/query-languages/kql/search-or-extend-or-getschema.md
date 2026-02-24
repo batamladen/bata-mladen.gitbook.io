@@ -21,8 +21,6 @@ search "String_of_interes"
 
 ### examples
 
-#### whole database search
-
 ```
 search "Google"
 ```
