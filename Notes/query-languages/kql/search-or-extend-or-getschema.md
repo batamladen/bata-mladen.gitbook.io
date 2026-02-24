@@ -118,3 +118,15 @@ Usage
 
 
 
+***
+
+### getschema
+
+getschema command is used to get the datatypes from the fields, and more info about a specific table in general.
+
+Its good for troubleshooting.
+
+
+
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
