@@ -4,7 +4,7 @@ To create a new visualization we go on the drop menu and select "Dashboard" Clic
 
 A window opens with 4 important notices.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. A filter option that allows us to filter the data before creating a graph. For example:
 2. This field indicates the data set (index) that we are going to use. It is common for data from various infrastructure sources to be separated into different indices, such as network, Windows, Linux, etc. In this particular example, we will specify `windows*` in the "Index pattern".
