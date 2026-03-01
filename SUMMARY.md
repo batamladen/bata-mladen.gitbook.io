@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Int](README.md)
 
 ## 🟩 HTB machines
 
@@ -43,6 +43,9 @@
   * [Crypto - Leonine Misbegotten](ctfs/0xfun-ctf-2026/crypto-leonine-misbegotten.md)
 * [BITSCTF 2026](ctfs/bitsctf-2026/README.md)
   * [Forensics - save me from this hell](ctfs/bitsctf-2026/forensics-save-me-from-this-hell.md)
+* [EHAX CTF 2026](ctfs/ehax-ctf-2026/README.md)
+  * [power leak](ctfs/ehax-ctf-2026/power-leak.md)
+  * [let-the-penguin-live](ctfs/ehax-ctf-2026/let-the-penguin-live.md)
 
 ## 🏫 VUTP
 
