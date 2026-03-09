@@ -46,8 +46,9 @@
 * [EHAX CTF 2026](ctfs/ehax-ctf-2026/README.md)
   * [power leak](ctfs/ehax-ctf-2026/power-leak.md)
   * [let-the-penguin-live](ctfs/ehax-ctf-2026/let-the-penguin-live.md)
-* [ApoorvCTF 2026](ctfs/apoorvctf-2026.md)
-* [Crypto - Cable's Temporal Loop](ctfs/crypto-cables-temporal-loop.md)
+* [ApoorvCTF 2026](ctfs/apoorvctf-2026/README.md)
+  * [Crypto - Cable's Temporal Loop](ctfs/apoorvctf-2026/crypto-cables-temporal-loop.md)
+  * [OSINT - Utopia 1](ctfs/apoorvctf-2026/osint-utopia-1.md)
 
 ## 🏫 VUTP
 

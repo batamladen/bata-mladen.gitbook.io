@@ -1,52 +1,7 @@
 # Crypto - Cable's Temporal Loop
 
-```
+```python
 #!/usr/bin/env python3
-"""
-Padding Oracle Attack on "Cable's Temporal Loop"
-
-Key observations:
-1. Server gives us A (=a), S_0, and flag_ct on connect
-2. math_test with d=0 reveals b (since (a*0+b)%p = b)
-3. decrypt endpoint is a padding oracle BUT requires:
-      int.from_bytes(ct, 'big') % p == current_state
-   where current_state = (a*s+b)%p, and s updates after each call
-4. p is only 32-bit, so we can prepend 4 bytes to any ciphertext
-   to satisfy the mod constraint without affecting AES decryption
-   (the extra bytes just get parsed by the algebraic check, not AES)
-
-Wait - actually the entire `cb` is passed to `_dc(k, cb)` which treats
-cb[0:16] as IV and cb[16:] as ciphertext. So prepending bytes WOULD
-shift the IV and mess up decryption.
-
-Better approach: we need to CRAFT the first 16 bytes (IV region) such that:
-  - int(our_ct, 'big') % p == q
-  - AES decryption of the blocks we care about still works
-
-Since p is 32-bit (4 bytes), only the last 4 bytes of the integer matter
-for the modular constraint. But int.from_bytes is big-endian, so only
-the LAST 4 bytes of the ciphertext affect the low-order bits... no wait,
-the ENTIRE value mod p matters.
-
-Simpler: p ~ 2^32. Our ciphertext is say 48 bytes = 384 bits.
-  int(ct) % p  -- we can freely modify the IV (first 16 bytes) 
-  to tune this value mod p, since IV bytes don't affect decryption
-  of later blocks (CBC: only P_i depends on C_{i-1}, and IV = C_0
-  only affects P_1).
-
-So for attacking block C_2 (second ciphertext block), we modify C_1 bytes
-for the oracle, and tune IV bytes to satisfy the mod constraint.
-For attacking C_1 (first block), we modify IV bytes for oracle... but those
-same bytes are what we'd tune. Conflict! 
-
-Resolution: When attacking the IV-dependent block (block 1), we need a 
-different approach. We can add a dummy prefix block:
-  craft_ct = new_iv (16 bytes) || modified_C0 (16 bytes) || C1 || ...
-where new_iv is tuned for the mod constraint and modified_C0 is our
-oracle probe. This shifts everything by one block.
-
-Let me implement the full attack:
-"""
 
 import socket
 import json
@@ -105,86 +60,7 @@ def find_prefix_to_satisfy_constraint(target_ct_bytes, q, p):
     return X.to_bytes(4, 'big')
 
 def make_oracle_ct(iv, blocks, q, p, s, a, b):
-    """
-    Build a ciphertext with a 4-byte prefix to satisfy modular constraint.
-    Structure: [4-byte prefix] [IV 16 bytes] [ciphertext blocks...]
-    
-    BUT wait - _dc treats first 16 bytes as IV and rest as ciphertext.
-    If we prepend 4 bytes, the 'IV' seen by AES = prefix[4:] + iv[:12]
-    which breaks things.
-    
-    CORRECT approach: tune the IV itself.
-    The IV (first 16 bytes) doesn't affect decryption of C1, C2, etc.
-    It only affects P1 (the XOR after decrypting C1 gives P1 = Dec(C1) XOR IV).
-    
-    For padding oracle on block Ci (i>=2):
-      - We control C_{i-1} for the oracle probe
-      - We can set IV freely to tune the mod constraint
-      - P1 will be garbage but we don't care about P1 for these blocks
-    
-    For padding oracle on block C1:
-      - We need to control IV for the oracle probe
-      - Can't also use IV to tune mod constraint
-      - Solution: insert a dummy block before C1
-        Structure: [tuning_iv] [dummy_block=oracle_probe] [C1] 
-        Now AES sees: IV=tuning_iv, C1=dummy_block (garbled P1), C2=original_C1
-        We're actually doing oracle on original_C1 using dummy_block as the "C1"
-        probe. The padding check is on ALL blocks, specifically the LAST block.
-        
-    Actually _dc just checks if unpadding succeeds on the last block.
-    So we need the LAST block to have valid PKCS7 padding after decryption.
-    
-    For CBC: P_last = Dec(C_last) XOR C_{last-1}
-    We control C_{last-1} in our oracle probe.
-    """
-    ct_bytes = iv + b''.join(blocks)
-    # Tune IV to satisfy mod constraint
-    # iv is first 16 bytes; we'll adjust last 4 bytes of iv
-    # keeping first 12 bytes of iv fixed, adjust last 4
-    # int(iv[0:12] + X + blocks) % p == q
-    # Treat everything after iv[0:12] as the "rest"
-    rest = iv[12:] + b''.join(blocks)  # 4 + all blocks
-    n = len(rest)
-    M = pow(256, n, p)
-    R = int.from_bytes(rest, 'big') % p
-    # We're setting iv[12:16] = X, a 4-byte value
-    prefix_fixed = iv[:12]
-    fixed_val = int.from_bytes(prefix_fixed, 'big')
-    fixed_contribution = (fixed_val * pow(256, n+4, p)) % p  # fixed 12 bytes shift
-    
-    # Actually let's just do it cleanly:
-    # full_ct = iv_tuned (16 bytes) + cipher_blocks
-    # int(full_ct) % p == q
-    # We tune iv_tuned[-4:] (last 4 bytes of IV)
-    # full_ct = iv[:12] + X(4 bytes) + blocks
-    suffix = b''.join(blocks)
-    # int(iv12 + X + suffix) where iv12=iv[:12]
-    # = int(iv12) * 2^(4+len(suffix))*8 + int(X)*2^(len(suffix)*8) + int(suffix)
-    n_suffix = len(suffix)
-    M_x = pow(256, n_suffix, p)  # multiplier for X (4 bytes before suffix)
-    n_iv12 = 12
-    iv12_int = int.from_bytes(iv[:12], 'big')
-    M_iv12 = pow(256, 4 + n_suffix, p)
-    R_total = (iv12_int * M_iv12 + int.from_bytes(suffix, 'big')) % p
-    # (R_total + X * M_x) % p == q
-    # X * M_x ≡ (q - R_total) mod p
-    diff = (q - R_total) % p
-    X = (diff * pow(M_x, -1, p)) % p
-    x_bytes = X.to_bytes(4, 'big')
-    return iv[:12] + x_bytes + suffix
 
-def padding_oracle(sock, a, b, p, s_ref, flag_ct_bytes):
-    """
-    Perform padding oracle attack.
-    flag_ct_bytes = IV (16) + C1 (16) + C2 (16) + ...
-    
-    We decrypt each block from last to first (except we recover plaintext).
-    
-    For each target block Ci, we manipulate C_{i-1} byte by byte.
-    We tune the IV (first 16 bytes of our sent ciphertext) to satisfy mod constraint.
-    
-    Current LCG state is tracked here.
-    """
     s = [s_ref]  # mutable reference
     
     def get_q():
@@ -323,54 +199,7 @@ def main():
     # math_test with d=1 gives (a+b) % p
     r1 = send_recv(sock, {"option": "math_test", "data": 1})
     ab = r1['result']
-    # ab = (a + b) % p
-    # If a+b < p: ab = a+b, so p > a+b (no info directly)
-    # We need p. Use two more queries:
-    # d=p would give 0, but we don't know p yet.
-    # Better: math_test with d=s0 gives (a*s0+b)%p = first LCG state
-    # We can also get p from: query large d values
     
-    # To find p: query d such that a*d+b overflows mod p.
-    # Or: we know a (16-bit), b (16-bit), p (32-bit prime)
-    # From d=0: b = b0 (=b since b < p)
-    # From d=1: (a+b) % p = ab
-    # If a+b < p: ab = a+b (no wrap), else ab = a+b-p
-    # Query d=2: 2a+b % p
-    # We can recover p by: send d = floor(p/a) type queries
-    # 
-    # Simpler: send d = (p-b)//a would give 0, but...
-    # 
-    # Actually: a*d+b = q*p + r where r is result
-    # For d=0: b = r0, so b%p = r0
-    # For large d, a*d+b will wrap. 
-    # We can find p by:
-    #   result(d) = (a*d + b) % p
-    #   result(d + p) = (a*(d+p) + b) % p = (a*d + b + a*p) % p = result(d)
-    # So period is p/gcd(a,p). Since p is prime and a<p, period=p.
-    # 
-    # Alternative: use two queries to get a linear equation.
-    # r1 - r0 = a (mod p)  [if no wrap between d=0 and d=1]
-    # But we already know a! So: r1 = (a + b) % p
-    # If r1 >= a+b: impossible (results are non-negative)
-    # r1 = a + b - k*p for some k in {0,1}
-    # Since a,b < 0xFFFF=65535, a+b < 131070 < 2^17
-    # p is a 32-bit prime, so p > 2^31
-    # Therefore a+b < p always! So r1 = a+b exactly, no mod.
-    # Wait... but b = r0 = b%p. Since b<0xFFFF < 2^31 < p, b=r0.
-    # And a+b < 131070 < p. So r1 = a+b. But we know a already!
-    # 
-    # To find p we need bigger values. Let's use d = a large number.
-    # Query d = 2^31 (just over half of p's range)
-    # result = (a * 2^31 + b) % p
-    # a * 2^31 can be up to 65535 * 2^31 ≈ 2^48, so it wraps p many times.
-    # 
-    # Best approach: use GCD method.
-    # If we query d1, d2: 
-    #   (a*d1+b) % p = r1
-    #   (a*d2+b) % p = r2
-    #   a*(d1-d2) ≡ r1-r2 (mod p)
-    #   p | a*(d1-d2) - (r1-r2)
-    # Use multiple d values, compute GCD of all (a*di+b - ri) values.
     
     print("[*] Recovering p via GCD method...")
     test_values = []
