@@ -1,10 +1,4 @@
-# Intro
+# All
 
-## Write-up's
+<table data-card-size="large" data-view="cards"><thead><tr><th data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="dead-pirate-society.md">dead-pirate-society.md</a></td><td>20.11.2025</td><td><a href=".gitbook/assets/DEAD PIRATE SOCIETY (1).webp">DEAD PIRATE SOCIETY (1).webp</a></td></tr><tr><td><a href="cybersecurity-job-landed.md">cybersecurity-job-landed.md</a></td><td>11.02.2026</td><td><a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.baDXA5JSwx2BWYx_7UALsAHaEK%3Fpid%3DApi&#x26;f=1&#x26;ipt=baad89ec8aca491b540189095538ba670a294e8caa62d6df9ee0cd35567f4e32&#x26;ipo=images">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.baDXA5JSwx2BWYx_7UALsAHaEK%3Fpid%3DApi&#x26;f=1&#x26;ipt=baad89ec8aca491b540189095538ba670a294e8caa62d6df9ee0cd35567f4e32&#x26;ipo=images</a></td></tr></tbody></table>
 
-Welcome to my collection of HTB machine and CTF conquests! Here, I'll be sharing my adventures, from the "aha" moments to the fails, all laid out and documented. Think of these write-ups as my digital diary, where I spill the beans on how I cracked those tricky challenges and emerged victorious (most of the time). \
-\
-It's all about learning and sharing the fun of hacking without breaking any rules...\
-...who knows, you might pick up a trick or two along the way :smile:.
-
-<br>
