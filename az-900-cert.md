@@ -1,5 +1,6 @@
 ---
 description: 12.05.2026
+hidden: true
 ---
 
 # AZ-900 cert
