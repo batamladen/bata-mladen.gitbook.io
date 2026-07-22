@@ -159,7 +159,7 @@ INSERT INTO OUTCOMES (SHIP, BATTLE, RESULT) VALUES
 ```
 {% endtab %}
 
-{% tab title="undefined" %}
+{% tab %}
 ```sql
 SELECT * FROM <table_name>;
 ```

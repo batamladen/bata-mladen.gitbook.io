@@ -106,6 +106,7 @@
   * [and | or | limit | top](query-languages/kql/and-or-or-or-limit-or-top.md)
   * [Working with time in KQL](query-languages/kql/working-with-time-in-kql.md)
   * [search | extend | getschema](query-languages/kql/search-or-extend-or-getschema.md)
+  * [Data Types](query-languages/kql/data-types.md)
 
 ## 🔐 CRYPTOGRAPHY
 
