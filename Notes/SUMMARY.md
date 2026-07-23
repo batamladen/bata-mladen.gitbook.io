@@ -107,6 +107,7 @@
   * [Working with time in KQL](query-languages/kql/working-with-time-in-kql.md)
   * [search | extend | getschema](query-languages/kql/search-or-extend-or-getschema.md)
   * [Data Types](query-languages/kql/data-types.md)
+  * [summarize | count() | min | max | make\_set](query-languages/kql/summarize-or-count-or-min-or-max-or-make_set.md)
 
 ## 🔐 CRYPTOGRAPHY
 
