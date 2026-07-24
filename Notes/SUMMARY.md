@@ -108,6 +108,7 @@
   * [search | extend | getschema](query-languages/kql/search-or-extend-or-getschema.md)
   * [Data Types](query-languages/kql/data-types.md)
   * [summarize | count() | min | max | make\_set](query-languages/kql/summarize-or-count-or-min-or-max-or-make_set.md)
+  * [summarize | bin |dcount |avg | countif](query-languages/kql/summarize-or-bin-or-dcount-or-avg-or-countif.md)
 
 ## 🔐 CRYPTOGRAPHY
 
