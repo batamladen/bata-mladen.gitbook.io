@@ -220,6 +220,11 @@
     * [Coercing Attacks & Unconstrained Delegation](certificates/cdsa/module-6-active-directory/coercing-attacks-and-unconstrained-delegation.md)
     * [Object ACLs](certificates/cdsa/module-6-active-directory/object-acls.md)
     * [PKI - ESC1](certificates/cdsa/module-6-active-directory/pki-esc1.md)
+* [AZ-900](certificates/az-900/README.md)
+  * [Fundamental Cloud Concepts](certificates/az-900/fundamental-cloud-concepts/README.md)
+    * [Cloud Computing](certificates/az-900/fundamental-cloud-concepts/cloud-computing.md)
+    * [Cloud Service Types](certificates/az-900/fundamental-cloud-concepts/cloud-service-types.md)
+    * [Cloud Benefits](certificates/az-900/fundamental-cloud-concepts/cloud-benefits.md)
 
 ## 🤖 MACHINE LEARNING
 
