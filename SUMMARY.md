@@ -4,8 +4,9 @@
 
 ## 🗝️ CRYPTOPALS
 
-* [Set 1](cryptopals/set-1.md)
-* [Hex to Base64](cryptopals/hex-to-base64.md)
+* [Set 1](cryptopals/set-1/README.md)
+  * [Hex to Base64](cryptopals/set-1/hex-to-base64.md)
+  * [Fixed XOR](cryptopals/set-1/fixed-xor.md)
 
 ## 🟩 HTB machines
 
