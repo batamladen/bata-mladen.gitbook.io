@@ -225,6 +225,8 @@
     * [Cloud Computing](certificates/az-900/fundamental-cloud-concepts/cloud-computing.md)
     * [Cloud Service Types](certificates/az-900/fundamental-cloud-concepts/cloud-service-types.md)
     * [Cloud Benefits](certificates/az-900/fundamental-cloud-concepts/cloud-benefits.md)
+* [SC-900](certificates/sc-900.md)
+* [SC-200](certificates/sc-200.md)
 
 ## 🤖 MACHINE LEARNING
 
