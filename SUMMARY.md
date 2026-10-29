@@ -55,6 +55,7 @@
 * [ApoorvCTF 2026](ctfs/apoorvctf-2026/README.md)
   * [Crypto - Cable's Temporal Loop](ctfs/apoorvctf-2026/crypto-cables-temporal-loop.md)
   * [OSINT - Utopia 1](ctfs/apoorvctf-2026/osint-utopia-1.md)
+* [Google Cold Room](ctfs/google-cold-room.md)
 
 ## 🏫 VUTP
 
