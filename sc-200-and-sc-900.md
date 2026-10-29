@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # SC-200 & SC-900
 
 Got the credentials so now im aliagble to have an opinion about the certificates.
